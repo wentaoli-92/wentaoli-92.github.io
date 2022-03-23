@@ -37,7 +37,7 @@ layout: default
      </div>
  </center>
  
- <img src="file/lwt.jpeg" width = "200" align=right />
+ <img src="file/lwt.jpeg" width = "50" align=right />
 
 <br>
 ## About Me
