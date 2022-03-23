@@ -1,41 +1,38 @@
 ---
 layout: default
 ---
- <center>
-     <br>
+
+<table border=1>
+<tr>
+<td> 
+ Postdoc Researcher <br>
+ Australian Artificial Intelligence Institute <br>
+ Faculty of Engineering and IT <br>
+ University of Technology Sydney <br>
+ Sydney, Australia <br><br>
+ Wentao.Li@uts.edu.au
+ <div>
+ <span>
+ <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+ </span>
+ ·
+ <span>
+ <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">DBLP</a>
+ </span>
+ </div> 
+</td>
+</tr>
+<tr>
+<td>
+ <img src="file/lwt.jpeg"/>
+
+</td>
+</tr>
+</table>
+
+
+
      
-     Postdoc Researcher
-     
-     <br>
-     
-     Australian Artificial Intelligence Institute
-     
-     <br>
-     
-     Faculty of Engineering and IT
-     
-     <br>
-     
-     University of Technology Sydney
-    
-     <br>
-     
-     Sydney, Australia
-     
-     <br><br>
-     
-     Wentao.Li@uts.edu.au
-     
-     <div>
-     <span>
-      <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
-     </span>
-     ·
-     <span>
-      <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">DBLP</a>
-     </span>
-     </div>
- </center>
  
 <img class="profile-picture" src="file/lwt.jpeg">
 <br>
