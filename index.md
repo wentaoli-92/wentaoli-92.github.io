@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof. Lu Qin, at University of Technology Sydney (UTS). He completed his Ph.D. study at UTS in 2021, advised by A/Prof. Lu Qin, Prof. Ying Zhang, and Dr. Miao Qiao. He obtained his master’s degree from Chongqing University in 2016 and his bachelor’s degree from Nanchang Hangkong University in 2013.
 
 ## Research Interest
 
