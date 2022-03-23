@@ -4,40 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="file/lwt.jpeg">
-
-     Postdoc Researcher
-     
-     <br><br>
-     
-     Australian Artificial Intelligence Institute
-     
-     <br>
-     
-     Faculty of Engineering and IT
-     
-     <br>
-     
-     University of Technology Sydney
-    
-     <br>
-     
-     Sydney, Australia
-     
-     <br><br>
-     
-     Wentao.Li@uts.edu.au
-     
-     <div>
-     <span>
-      <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
-     </span>
-     ·
-     <span>
-      <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">DBLP</a>
-     </span>
-     </div>
- </center>
+<img class="profile-picture" width = "100" src="file/lwt.jpeg">
 
 Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof. Lu Qin, at University of Technology Sydney (UTS). He completed his Ph.D. study at UTS in 2021, advised by A/Prof. Lu Qin, Prof. Ying Zhang, and Dr. Miao Qiao. He obtained his master’s degree from Chongqing University in 2016 and his bachelor’s degree from Nanchang Hangkong University in 2013.
 
