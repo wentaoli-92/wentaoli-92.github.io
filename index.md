@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="file/lwt.jpeg" width = "400" style="position:relative;top:10px;" align=left />
+<img src="file/lwt.jpeg" width = "300" align=left />
  <center>
      <br>
      
