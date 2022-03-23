@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<table border="0" frame=void>
+<table border="0" frame=void rules=null>
 <tr>
 <td> 
  Postdoc Researcher <br>
  Australian Artificial Intelligence Institute <br>
  Faculty of Engineering and IT <br>
  University of Technology Sydney <br>
- Sydney, Australia <br><br>
+ Sydney, Australia <br>
  Wentao.Li@uts.edu.au
  <div>
  <span>
@@ -23,7 +23,7 @@ layout: default
 </td>
  
 <td>
- <img src="file/lwt.jpeg" width="50%"/>
+ <img src="file/lwt.jpeg" width="40%"/>
 </td>
  
 </tr>
