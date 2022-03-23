@@ -37,8 +37,7 @@ layout: default
      </div>
  </center>
  
- <img src="file/lwt.jpeg" width = "50" align=right />
-
+<img class="profile-picture" src="file/lwt.jpeg">
 <br>
 
 ## Biography
