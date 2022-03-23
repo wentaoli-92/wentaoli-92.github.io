@@ -1,7 +1,46 @@
 ---
 layout: default
 ---
+<img src="fig/lwt.jpeg" width = "420" style="position:relative;top:10px;" align=left />
+ <center>
+    <font size=6> Wentao Li </font>
+ 
+     <br>
+     
+     Postdoc Researcher
+     
+     <br><br>
+     
+     Australian Artificial Intelligence Institute
+     
+     <br>
+     
+     Faculty of Engineering and IT
+     
+     <br>
+     
+     University of Technology Sydney
+    
+     <br>
+     
+     Sydney, Australia
+     
+     <br><br>
+     
+     Wentao.Li@uts.edu.au
+     
+     <div>
+     <span>
+      <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+     </span>
+     ·
+     <span>
+      <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">DBLP</a>
+     </span>
+     </div>
+ </center>
 
+<br>
 ## About Me
 
 <img class="profile-picture" width = "100" src="file/lwt.jpeg">
