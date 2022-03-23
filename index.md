@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<table border=1>
+<table border=0>
 <tr>
 <td> 
  Postdoc Researcher <br>
@@ -21,19 +21,13 @@ layout: default
  </span>
  </div> 
 </td>
-</tr>
-<tr>
+ 
 <td>
  <img src="file/lwt.jpeg"/>
-
 </td>
+ 
 </tr>
 </table>
-
-
-
-     
- 
 <img class="profile-picture" src="file/lwt.jpeg">
 <br>
 
