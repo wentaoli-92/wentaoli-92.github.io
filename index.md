@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-<img src="fig/lwt.jpeg" width = "420" style="position:relative;top:10px;" align=left />
+<img src="file/lwt.jpeg" width = "400" style="position:relative;top:10px;" align=left />
  <center>
-    <font size=6> Wentao Li </font>
- 
      <br>
      
      Postdoc Researcher
