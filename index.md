@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<table border="0">
+<table border="0" frame=void>
 <tr>
 <td> 
  Postdoc Researcher <br>
@@ -28,8 +28,6 @@ layout: default
  
 </tr>
 </table>
-<img class="profile-picture" src="file/lwt.jpeg">
-<br>
 
 ## Biography
 
