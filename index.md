@@ -44,9 +44,15 @@ layout: default
 
 Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), at University of Technology Sydney (UTS). He completed his Ph.D. study at UTS in 2021, advised by A/Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), Prof. [Ying Zhang](https://www.uts.edu.au/staff/ying.zhang), and Dr. [Miao Qiao](https://unidirectory.auckland.ac.nz/profile/miao-qiao). He obtained his master's degree from Chongqing University in 2016 and his bachelor's degree from Nanchang Hangkong University in 2013.
 
-## Research Interest
+## Research Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- Databases
+   - Graph Queries
+   - Social Network Analysis
+ 
+- Data Mining
+   - Anomaly Detection
+   - Recommender System
 
 ## Publications
 
