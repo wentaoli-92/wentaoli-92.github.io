@@ -1,15 +1,14 @@
 remote_theme: ankitsultana/researcher@gem
 title: Wentao Li (李文涛)
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+#url: "https://ankitsultana.com"
+#baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
