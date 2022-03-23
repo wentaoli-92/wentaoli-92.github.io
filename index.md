@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-<img src="file/lwt.jpeg" width = "300" align=left />
  <center>
      <br>
      
      Postdoc Researcher
      
-     <br><br>
+     <br>
      
      Australian Artificial Intelligence Institute
      
@@ -37,6 +36,8 @@ layout: default
      </span>
      </div>
  </center>
+ 
+ <img src="file/lwt.jpeg" width = "200" align=right />
 
 <br>
 ## About Me
