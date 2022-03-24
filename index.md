@@ -49,7 +49,7 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
 On Scalable Computation of Graph Eccentricities. <br>
 International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font>]
 
-- **Wentao Li**, Min Gao, Dong Wen, Hongwei Zhou, Cai ke, Lu Qin. <br>
+- **Wentao Li**, Min Gao, Dong Wen, Hongwei Zhou, Cai Ke, Lu Qin. <br>
 Manipulating Structural Graph Clustering. <br>
 IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font>]
 
