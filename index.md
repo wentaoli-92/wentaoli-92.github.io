@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<table border="0" frame=void rules=null width="100%">
+<table border="0" frame=void ules=none cellspacing=0 width="100%">
 <tr>
 <td width="60%"> 
  Postdoc Researcher <br> <br>
