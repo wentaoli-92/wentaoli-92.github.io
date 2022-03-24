@@ -104,14 +104,19 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 - External Reviewer: SIGKDD, SIGIR, ICDE, DASFAA, CIKM, PAKDD, ADC, etc.
 - PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE-Demo 2021, etc.
 
+## Teaching Experiences (TA)
+- Studio 3: Innovation (Machine Learning), University of Technology Sydney, 2022.
+- Studio 3: Innovation (Machine Learning), University of Technology Sydney, 2021.
+- Data Structures and Algorithms, University of Technology Sydney, 2020.
+- Enterprise Business Requirements, University of Technology Sydney, 2020.
+- Computer Networks, Chongqing University, 2015.
+- The Fundamentals of Computer, Chongqing University, 2014.
 
+## Honors and Awards
+- <a href="https://xueshu.baidu.com/usercenter/index/aischolar">2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence</a>, 2021.
+- SIGMOD Travel Award, 2019.
+- Outstanding Graduate of Chongqing City, 2016.
+- Outstanding Graduate of Chongqing University, 2016.
 
-
-
-
-
-
-
-
-
+---
 
