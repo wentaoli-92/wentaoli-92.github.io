@@ -4,7 +4,7 @@ layout: default
 
 <table border="0" frame=void rules=null>
 <tr>
-<td widtd="60%"> 
+<td> 
  Postdoc Researcher <br> <br>
  Australian Artificial Intelligence Institute <br> <br>
  Faculty of Engineering and IT <br> <br>
@@ -22,7 +22,7 @@ layout: default
  </div> 
 </td>
  
-<td widtd="40%">
+<td>
  <img src="file/lwt.jpeg" width="20%" align=right/>
 </td>
  
@@ -43,10 +43,11 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
    - Anomaly Detection
    - Recommender System
 
-## Publications
+## Selected Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
+On Scalable Computation of Graph Eccentricities. <br>
+International Conference on Management of Data (SIGMOD), 2022. (<font color=red>CCF A</font>)
 
 ## Typography
 
