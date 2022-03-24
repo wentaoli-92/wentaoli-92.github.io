@@ -99,27 +99,19 @@ A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
 Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
 
 
-## Typography
+## Academia Services
+- Journal Reviewer: Information Sciences, Electronics, etc.
+- External Reviewer: SIGKDD, SIGIR, ICDE, DASFAA, CIKM, PAKDD, ADC, etc.
+- PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE-Demo 2021, etc.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
 
----
 
-Here is a blockquote
 
-> To a great mind, nothing is little
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+
+
