@@ -4,7 +4,7 @@ layout: default
 
 <table border="0" frame=void rules=null>
 <tr>
-<td> 
+<td widtd="60%"> 
  Postdoc Researcher <br>
  Australian Artificial Intelligence Institute <br>
  Faculty of Engineering and IT <br>
@@ -22,8 +22,8 @@ layout: default
  </div> 
 </td>
  
-<td>
- <img src="file/lwt.jpeg" width="40%"/>
+<td widtd="40%">
+ <img src="file/lwt.jpeg" width="40%" align=right/>
 </td>
  
 </tr>
