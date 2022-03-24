@@ -23,7 +23,7 @@ layout: default
 </td>
  
 <td width="50%">
- <img src="file/lwt.jpeg" align=right/>
+ <img src="file/lwt.jpeg" width=50 align=right/>
 </td>
  
 </tr>
