@@ -47,56 +47,56 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
-International Conference on Management of Data (SIGMOD), 2022. (<font color=red>CCF A</font>)
+International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font>]
 
 - **Wentao Li**, Min Gao, Dong Wen, Hongwei Zhou, Cai ke, Lu Qin. <br>
 Manipulating Structural Graph Clustering. <br>
-IEEE International Conference on Data Engineering (ICDE), 2022. (<font color=red>CCF A</font>)
+IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font>]
 
 - Junhua Zhang, **Wentao Li***, Lu Qin, Ying Zhang, Dong Wen, Lizhen Cui, Xuemin Lin. <br>
 Reachability Labeling for Distributed Graphs. <br>
-IEEE International Conference on Data Engineering (ICDE), 2022. (<font color=red>CCF A</font>, Corresponding Author)
+IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font>, Corresponding Author]
 
 - Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
 Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
-International Conference on Very Large Data Bases (VLDB), 2022. (<font color=red>CCF A</font>)
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
 
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Distance Labeling: on Parallelism, Compression, and Ordering. <br>
-The VLDB Journal, 2022. (<font color=red>CCF A</font> | <a href="file/PSL_VLDBJ_2021.pdf">PDF</a>)
+The VLDB Journal, 2022. [<font color=red>CCF A</font> | <a href="file/PSL_VLDBJ_2022.pdf">PDF</a>]
 
 - **Wentao Li**, Min Gao, Fan Wu, Wenge Rong, Junhao Wen, Lu Qin. <br>
 Manipulating Black-Box Networks for Centrality Promotion. <br>
-IEEE International Conference on Data Engineering (ICDE), 2021. (<font color=red>CCF A</font> | <a href="file/CPN_ICDE_2021.pdf">PDF</a> | <a href="file/CPN_SLIDES_2021.pdf">SLIDES</a>)
+IEEE International Conference on Data Engineering (ICDE), 2021. [<font color=red>CCF A</font> | <a href="file/CPN_ICDE_2021.pdf">PDF</a> | <a href="file/CPN_SLIDES_2021.pdf">SLIDES</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Scaling Up Distance Labeling on Graphs with Core-Periphery Properties. <br>
-International Conference on Management of Data (SIGMOD), 2020. (<font color=red>CCF A</font> | <a href="file/CTL_SIGMOD_2020.pdf">PDF</a> | <a href="file/CTL_SLIDES_2020.pdf">SLIDES</a>)
+International Conference on Management of Data (SIGMOD), 2020. [<font color=red>CCF A</font> | <a href="file/CTL_SIGMOD_2020.pdf">PDF</a> | <a href="file/CTL_SLIDES_2020.pdf">SLIDES</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Scaling Distance Labeling on Small-World Networks. <br>
-International Conference on Management of Data (SIGMOD), 2019. (<font color=red>CCF A</font> | <a href="file/PSL_SIGMOD_2019.pdf">PDF</a> | <a href="file/PSL_SLIDES_2019.pdf">SLIDES</a> | <a href="code/[sigmod 2019].zip">CODE</a>)
+International Conference on Management of Data (SIGMOD), 2019. [<font color=red>CCF A</font> | <a href="file/PSL_SIGMOD_2019.pdf">PDF</a> | <a href="file/PSL_SLIDES_2019.pdf">SLIDES</a> | <a href="code/[sigmod 2019].zip">CODE</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Eccentricities on Small-World Networks. <br>
-The VLDB Journal, 2019. (<font color=red>CCF A</font> | <a href="file/ECC_VLDBJ_2019.pdf">PDF</a>)
+The VLDB Journal, 2019. [<font color=red>CCF A</font> | <a href="file/ECC_VLDBJ_2019.pdf">PDF</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Exacting Eccentricity for Small-World Networks. <br>
-IEEE International Conference on Data Engineering (ICDE), 2018. (<font color=red>CCF A</font> | <a href="file/ECC_ICDE_2018.pdf">PDF</a> | <a href="file/ECC_SLIDES_2018.pdf">SLIDES</a>)
+IEEE International Conference on Data Engineering (ICDE), 2018. [<font color=red>CCF A</font> | <a href="file/ECC_ICDE_2018.pdf">PDF</a> | <a href="file/ECC_SLIDES_2018.pdf">SLIDES</a>]
 
 - Min Gao, **Wentao Li**. <br>
 Shilling Attacks and Detection in Social Recommender Systems. <br>
-Science Press, 2017. (<font color=red>BOOK</font> | <a href = "http://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B924B71F40406437FB218658261EDA7BB000#"> LINK</a>, In Chinese)
+Science Press, 2017. [<font color=red>BOOK</font> | <a href = "http://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B924B71F40406437FB218658261EDA7BB000#"> LINK</a>, In Chinese]
 
 - Kan Tan, Min Gao, **Wentao Li**, Renli Tian, Junhao Wen, Qingyu Xiong. <br>
 Two-layer Sampling Active Learning Algorithm for Social Spammer Detection. <br>
-Acta Automatica Sinica, 2017. (<font color=red>CCF T1</font>)
+Acta Automatica Sinica, 2017. [<font color=red>CCF T1</font>]
 
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
-Acta Automatica Sinica, 2015. (<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>)
+Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
 
 
 ## Typography
