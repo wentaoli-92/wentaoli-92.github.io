@@ -5,11 +5,11 @@ layout: default
 <table border="0" frame=void rules=null>
 <tr>
 <td widtd="60%"> 
- Postdoc Researcher <br>
- Australian Artificial Intelligence Institute <br>
- Faculty of Engineering and IT <br>
- University of Technology Sydney <br>
- Sydney, Australia <br>
+ Postdoc Researcher <br> <br>
+ Australian Artificial Intelligence Institute <br> <br>
+ Faculty of Engineering and IT <br> <br>
+ University of Technology Sydney <br> <br>
+ Sydney, Australia <br> <br>
  Wentao.Li@uts.edu.au
  <div>
  <span>
@@ -23,7 +23,7 @@ layout: default
 </td>
  
 <td widtd="40%">
- <img src="file/lwt.jpeg" width="40%" align=right/>
+ <img src="file/lwt.jpeg" width="20%" align=right/>
 </td>
  
 </tr>
