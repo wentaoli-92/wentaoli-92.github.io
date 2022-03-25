@@ -40,7 +40,7 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
    - Social Network Analysis
  
 - Data Mining
-   - Anomaly Detection
+   - Adversarial Attack
    - Recommender System
 
 ## Selected Publications
