@@ -36,7 +36,7 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
 ## Research Interests
 
 - Databases
-   - Graph Queries
+   - Graph Query
    - Social Network Analysis
  
 - Data Mining
