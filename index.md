@@ -102,7 +102,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 ## Academia Services
 - Journal Reviewer: Information Sciences, Electronics, etc.
 - External Reviewer: SIGKDD, SIGIR, ICDE, DASFAA, CIKM, PAKDD, ADC, etc.
-- PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE-Demo 2021, etc.
+- PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE Demo 2021, etc.
 
 ## Teaching Experiences (TA)
 - Studio 3: Innovation (Machine Learning), University of Technology Sydney, 2022.
