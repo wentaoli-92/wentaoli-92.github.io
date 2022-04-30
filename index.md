@@ -72,7 +72,7 @@ IEEE International Conference on Data Engineering (ICDE), 2021. [<font color=red
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Scaling Up Distance Labeling on Graphs with Core-Periphery Properties. <br>
-International Conference on Management of Data (SIGMOD), 2020. [<font color=red>CCF A</font> | <a href="file/CTL_SIGMOD_2020.pdf">PDF</a> | <a href="file/CTL_SLIDES_2020.pdf">SLIDES</a> <a href="file/CTL_CODE_2020.zip">CODE</a>]
+International Conference on Management of Data (SIGMOD), 2020. [<font color=red>CCF A</font> | <a href="file/CTL_SIGMOD_2020.pdf">PDF</a> | <a href="file/CTL_SLIDES_2020.pdf">SLIDES</a> | <a href="file/CTL_CODE_2020.zip">CODE</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Scaling Distance Labeling on Small-World Networks. <br>
