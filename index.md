@@ -49,6 +49,14 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
 On Scalable Computation of Graph Eccentricities. <br>
 International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font>]
 
+- Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
+Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
+
+- Yuxuan Qiu, Dong Wen, Lu Qin, **Wentao Li**, Ronghua Li, Ying Zhang. <br>
+Efficient Shortest Path Counting on Large Road Networks. <br>
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
+
 - **Wentao Li**, Min Gao, Dong Wen, Hongwei Zhou, Cai Ke, Lu Qin. <br>
 Manipulating Structural Graph Clustering. <br>
 IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font>]
@@ -56,10 +64,6 @@ IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red
 - Junhua Zhang, **Wentao Li***, Lu Qin, Ying Zhang, Dong Wen, Lizhen Cui, Xuemin Lin. <br>
 Reachability Labeling for Distributed Graphs. <br>
 IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font>, Corresponding Author]
-
-- Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
-Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
-International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
 
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
