@@ -47,7 +47,7 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
-International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font> | <a href="file/ECC_SIGMOD_2022.pdf">PDF</a>]
+International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>]
 
 - Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
 Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
