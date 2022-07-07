@@ -47,7 +47,7 @@ My general research interests mainly focus on the areas of big data processing a
 On Scalable Computation of Graph Eccentricities. <br>
 International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>]
 
-- Junhua Zhang, **Wentao Li**, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
+- Junhua Zhang, **Wentao Li***, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
 Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement. <br>
 International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font></a> | Corresponding Author]
 
