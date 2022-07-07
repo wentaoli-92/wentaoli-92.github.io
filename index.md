@@ -35,19 +35,21 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
 
 ## Research Interests
 
-- Databases
-   - Graph Query
-   - Social Network Analysis
- 
-- Data Mining
-   - Adversarial Attack
-   - Recommender System
+My general research interests mainly focus on the areas of big data processing and mining. Currently, I am working on the following research topics:
+
+- Graph data processing: graph measurement (e.g., centrality and shortest distance), parallel graph algorithms;
+
+- Adversarial attacks: shilling attacks, network design.
 
 ## Selected Publications
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
 International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>]
+
+- Junhua Zhang, **Wentao Li**, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
+Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement. <br>
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font></a> | Corresponding Author]
 
 - Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
 Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
@@ -64,7 +66,6 @@ IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red
 - Junhua Zhang, **Wentao Li***, Lu Qin, Ying Zhang, Dong Wen, Lizhen Cui, Xuemin Lin. <br>
 Reachability Labeling for Distributed Graphs. <br>
 IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font> | <a href="file/DRL_ICDE_2022.pdf">PDF</a>, Corresponding Author]
-
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Distance Labeling: on Parallelism, Compression, and Ordering. <br>
@@ -104,17 +105,19 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 
 ## Academia Services
-- Journal Reviewer: Information Sciences, Electronics, etc.
-- External Reviewer: SIGKDD, SIGIR, ICDE, DASFAA, CIKM, PAKDD, ADC, etc.
+- Journal Reviewer: TKDE, Information Sciences, etc.
+- External Reviewer: SIGIR 2022, SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
 - PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE Demo 2021, etc.
 
-## Teaching Experiences (TA)
-- Studio 3: Innovation (Machine Learning), University of Technology Sydney, 2022.
-- Studio 3: Innovation (Machine Learning), University of Technology Sydney, 2021.
-- Data Structures and Algorithms, University of Technology Sydney, 2020.
-- Enterprise Business Requirements, University of Technology Sydney, 2020.
-- Computer Networks, Chongqing University, 2015.
-- The Fundamentals of Computer, Chongqing University, 2014.
+## Teaching Experiences
+- Guest Lecturer, Data Analytics for Graphs, University of New South Wales, Autumn Session 2022.
+- Tutor, Studio 3: Innovation (Machine Learning), University of Technology Sydney, Spring Session 2022.
+- Tutor, Studio 3: Innovation (Machine Learning), University of Technology Sydney, Autumn Session 2022.
+- Tutor, Studio 3: Innovation (Machine Learning), University of Technology Sydney, Spring Session 2021.
+- Tutor, Data Structures and Algorithms, University of Technology Sydney, Summer Session 2020.
+- Tutor, Enterprise Business Requirements, University of Technology Sydney, Autumn Session 2020.
+- Tutor, Computer Networks, Chongqing University, Autumn Session, 2015.
+- Tutor, The Fundamentals of Computer, Chongqing University, Autumn Session, 2014.
 
 ## Honors and Awards
 - <a href="https://xueshu.baidu.com/usercenter/index/aischolar">2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence</a>, 2021.
