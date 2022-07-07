@@ -110,8 +110,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 - PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE Demo 2021, etc.
 
 ## Teaching Experiences
-- Guest Lecturer, Data Analytics for Graphs, 
- - <br> University of New South Wales, Autumn Session 2022.
+- Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Autumn Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2021.
