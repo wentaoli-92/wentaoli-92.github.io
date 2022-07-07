@@ -35,7 +35,7 @@ Dr. Wentao Li is currently a Postdoc Researcher under the supervision of A/Prof.
 
 ## Research Interests
 
-My general research interests mainly focus on the areas of big data processing and mining. Currently, I am working on the following research topics:
+His general research interests mainly focus on the areas of big data processing and mining. Currently, He is working on the following research topics:
 
 - Graph data processing: graph measurement (e.g., centrality and shortest distance), parallel graph algorithms;
 
