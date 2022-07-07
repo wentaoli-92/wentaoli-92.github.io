@@ -49,7 +49,7 @@ International Conference on Management of Data (SIGMOD), 2022. [<font color=red>
 
 - Junhua Zhang, **Wentao Li***, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
 Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement. <br>
-International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font> | Corresponding Author</a>]
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font> | Corresponding Author]
 
 - Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
 Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
