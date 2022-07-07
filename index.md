@@ -110,14 +110,14 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 - PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE Demo 2021, etc.
 
 ## Teaching Experiences
-- Guest Lecturer, Data Analytics for Graphs, University of New South Wales, <br> Autumn Session 2022.
-- Tutor, Studio 3: Innovation (Machine Learning), University of Technology Sydney, <br> Spring Session 2022.
-- Tutor, Studio 3: Innovation (Machine Learning), University of Technology Sydney, <br> Autumn Session 2022.
-- Tutor, Studio 3: Innovation (Machine Learning), University of Technology Sydney, <br> Spring Session 2021.
-- Tutor, Data Structures and Algorithms, University of Technology Sydney, <br> Summer Session 2020.
-- Tutor, Enterprise Business Requirements, University of Technology Sydney, <br> Autumn Session 2020.
-- Tutor, Computer Networks, Chongqing University, <br> Autumn Session, 2015.
-- Tutor, The Fundamentals of Computer, Chongqing University, <br> Autumn Session, 2014.
+- Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
+- Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2022.
+- Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Autumn Session 2022.
+- Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2021.
+- Tutor, Data Structures and Algorithms, <br> University of Technology Sydney, Summer Session 2020.
+- Tutor, Enterprise Business Requirements, <br> University of Technology Sydney, Autumn Session 2020.
+- Tutor, Computer Networks, <br> Chongqing University, Autumn Session, 2015.
+- Tutor, The Fundamentals of Computer, <br> Chongqing University, Autumn Session, 2014.
 
 ## Honors and Awards
 - <a href="https://xueshu.baidu.com/usercenter/index/aischolar">2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence</a>, 2021.
