@@ -106,8 +106,8 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 ## Academia Services
 - Journal Reviewer: TKDE, Information Sciences, etc.
-- External Reviewer: SIGIR 2022, SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
-- PC Member: PAKDD 2021-2022, ADC 2021-2022, WISE Demo 2021, etc.
+- External Reviewer: SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
+- PC Member: SIGIR 2022, PAKDD 2021-2022, ADC 2021-2022, WISE Demo 2021, etc.
 
 ## Teaching Experiences
 - Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
