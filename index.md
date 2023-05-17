@@ -107,7 +107,7 @@ Acta Automatica Sinica, 2017. [<font color=red>CCF T1</font>]
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
 Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
 
-## Grant
+## Funding
 - Wei Wang, **Wentao Li**, Yihao Fu. <br>
 Cardinality Estimation Based on Mixture of Pre-Trained Large Models and Efficient Model Update Mechanisms. <br>
 CCF-Huawei Populus Grove Challenge Fund, 2023-2024.
