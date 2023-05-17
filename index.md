@@ -37,11 +37,15 @@ Dr. Wentao Li is currently serving as a Postdoc Researcher at The Hong Kong Univ
 
 His general research interests mainly focus on the areas of big data processing and mining. Currently, He is working on the following research topics:
 
-- Graph data processing: graph measurement (e.g., centrality and shortest distance), parallel graph algorithms;
+- Data base: graph data processing, parallel graph algorithms;
 
-- Adversarial attacks: shilling attacks, network design.
+- Data minging: AI4DB, recommendation systems.
 
 ## Selected Publications
+
+- Zongwei Wang, Min Gao, **Wentao Li**, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
+Efficient Bi-Level Optimization for Recommendation Denoising. <br>
+International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
@@ -103,11 +107,17 @@ Acta Automatica Sinica, 2017. [<font color=red>CCF T1</font>]
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
 Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
 
+## Grant
+- Wei Wang, **Wentao Li**, Yihao Fu. <br>
+Cardinality Estimation Based on Mixture of Pre-Trained Large Models and Efficient Model Update Mechanisms. <br>
+CCF-Huawei Populus Grove Challenge Fund, 2023-2024.
 
 ## Academia Services
-- Journal Reviewer: TKDE, Information Sciences, etc.
+- Journal Reviewer: TODS, TKDE, Information Sciences, etc.
+- PC Member: AAAI 2023, SIGIR 2022, PAKDD 2021-2023, ADMA 2023, ADC 2021-2023, WISE Demo 2021, etc.
+- Session Chair: ICDE 2023, etc.
 - External Reviewer: SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
-- PC Member: SIGIR 2022, PAKDD 2021-2022, ADC 2021-2022, WISE Demo 2021, etc.
+
 
 ## Teaching Experiences
 - Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
