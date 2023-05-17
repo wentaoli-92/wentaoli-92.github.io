@@ -45,7 +45,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 - Zongwei Wang, Min Gao, **Wentao Li**, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
 Efficient Bi-Level Optimization for Recommendation Denoising. <br>
-International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.
+International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. [<font color=red>CCF A</font>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
