@@ -39,7 +39,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 - Data base: graph data processing, parallel graph algorithms;
 
-- Data minging: AI4DB, recommendation systems.
+- Data mining: AI4DB, recommendation systems.
 
 ## Selected Publications
 
