@@ -6,11 +6,11 @@ layout: default
 <tr>
 <td width="60%"> 
  Postdoc Researcher <br> <br>
- Australian Artificial Intelligence Institute <br> <br>
- Faculty of Engineering and IT <br> <br>
- University of Technology Sydney <br> <br>
- Sydney, Australia <br> <br>
- Wentao.Li@uts.edu.au
+ Data Science and Analytics (DSA) Thrust <br> <br>
+ Information Hub <br> <br>
+ The Hong Kong University of Science and Technology (Guangzhou) <br> <br>
+ Guangzhou, China <br> <br>
+ livent@126.com
  <div>
  <span>
  <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
