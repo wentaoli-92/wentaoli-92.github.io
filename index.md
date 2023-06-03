@@ -41,9 +41,9 @@ His general research interests mainly focus on the areas of big data processing 
 
 - Data mining: AI4DB, recommendation systems.
 
-## Selected Publications
+## Selected Publications (* indicates Corresponding Author)
 
-- Zongwei Wang, Min Gao, **Wentao Li**, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
+- Zongwei Wang, Min Gao*, **Wentao Li***, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
 Efficient Bi-Level Optimization for Recommendation Denoising. <br>
 International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. [<font color=red>CCF A</font>]
 
@@ -53,7 +53,7 @@ International Conference on Management of Data (SIGMOD), 2022. [<font color=red>
 
 - Junhua Zhang, **Wentao Li***, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
 Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement. <br>
-International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font> | Corresponding Author]
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
 
 - Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
 Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
@@ -69,7 +69,7 @@ IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red
 
 - Junhua Zhang, **Wentao Li***, Lu Qin, Ying Zhang, Dong Wen, Lizhen Cui, Xuemin Lin. <br>
 Reachability Labeling for Distributed Graphs. <br>
-IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font> | <a href="file/DRL_ICDE_2022.pdf">PDF</a>, Corresponding Author]
+IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font> | <a href="file/DRL_ICDE_2022.pdf">PDF</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Distance Labeling: on Parallelism, Compression, and Ordering. <br>
