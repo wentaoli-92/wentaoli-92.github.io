@@ -43,7 +43,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 ## Selected Publications (* indicates Corresponding Author)
 
-- Zongwei Wang, Min Gao*, **Wentao Li***, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
+- Zongwei Wang, Min Gao*, **Wentao Li\***, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
 Efficient Bi-Level Optimization for Recommendation Denoising. <br>
 International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. [<font color=red>CCF A</font>]
 
