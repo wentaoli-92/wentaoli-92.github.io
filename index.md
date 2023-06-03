@@ -51,7 +51,7 @@ International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. 
 On Scalable Computation of Graph Eccentricities. <br>
 International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>]
 
-- Junhua Zhang, **Wentao Li***, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
+- Junhua Zhang, **Wentao Li\***, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
 Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement. <br>
 International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
 
@@ -67,7 +67,7 @@ International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red
 Manipulating Structural Graph Clustering. <br>
 IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font> | <a href="file/MSCAN_ICDE_2022.pdf">PDF</a>]
 
-- Junhua Zhang, **Wentao Li***, Lu Qin, Ying Zhang, Dong Wen, Lizhen Cui, Xuemin Lin. <br>
+- Junhua Zhang, **Wentao Li\***, Lu Qin, Ying Zhang, Dong Wen, Lizhen Cui, Xuemin Lin. <br>
 Reachability Labeling for Distributed Graphs. <br>
 IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font> | <a href="file/DRL_ICDE_2022.pdf">PDF</a>]
 
