@@ -110,7 +110,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 ## Fundings
 - Wei Wang, **Wentao Li**, Yihao Fu. <br>
 Cardinality Estimation Based on Mixture of Pre-Trained Large Models and Efficient Model Update Mechanisms. <br>
-CCF-Huawei Populus Grove Challenge Fund, 2023-2024.
+CCF Fund, 2023-2024.
 
 ## Academia Services
 - Journal Reviewer: TODS, TKDE, Information Sciences, etc.
