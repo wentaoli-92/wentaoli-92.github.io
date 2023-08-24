@@ -108,13 +108,17 @@ A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
 Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
 
 ## Fundings
+- **Wentao Li**. <br>
+Numeric Constrained Shortest Path Query Processing on Road Networks. <br>
+National Natural Science Foundation of China (NSFC), 62302417, 2024-2026.
+
 - Wei Wang, **Wentao Li**, Yihao Fu, Changkai Mai. <br>
 Cardinality Estimation Based on Mixture of Pre-Trained Large Models and Efficient Model Update Mechanisms. <br>
 CCF Fund, 2023-2024.
 
 ## Academia Services
-- Journal Reviewer: TODS, TKDE, Information Sciences, etc.
-- PC Member: AAAI 2023-2024, SIGIR 2022, DASFAA 2023, PAKDD 2021-2023, ADMA 2023, ADC 2021-2023, WISE Demo 2021, etc.
+- Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, etc.
+- PC Member: AAAI 2023-2024, DASFAA 2023-2024, SIGIR 2022, PAKDD 2021-2023, ADMA 2023, ADC 2021-2023, WISE Demo 2021, etc.
 - Session Chair: ICDE 2023, etc.
 - External Reviewer: SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
 
