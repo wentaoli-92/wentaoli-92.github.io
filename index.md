@@ -43,25 +43,29 @@ His general research interests mainly focus on the areas of big data processing 
 
 ## Selected Publications (* indicates Corresponding Author)
 
+- **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
+Expanding Reverse Nearest Neighbors. <br>
+International Conference on Very Large Data Bases (VLDB), 2024. [<font color=red>CCF A, CORE A*</font>]
+
 - Zongwei Wang, Min Gao*, **Wentao Li\***, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
 Efficient Bi-Level Optimization for Recommendation Denoising. <br>
-International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. [<font color=red>CCF A</font>]
+International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
-International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>]
+International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A, CORE A*</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>]
 
 - Junhua Zhang, **Wentao Li\***, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
 Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement. <br>
-International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A, CORE A*</font>]
 
 - Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang. <br>
 Efficient Label-Constrained Shortest Path Queries on Road Networks: A Tree Decomposition Approach. <br>
-International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font> | <a href="file/LSD_PVLDB_2022.pdf">PDF</a>]
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A, CORE A*</font> | <a href="file/LSD_PVLDB_2022.pdf">PDF</a>]
 
 - Yuxuan Qiu, Dong Wen, Lu Qin, **Wentao Li**, Ronghua Li, Ying Zhang. <br>
 Efficient Shortest Path Counting on Large Road Networks. <br>
-International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A</font>]
+International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Min Gao, Dong Wen, Hongwei Zhou, Cai Ke, Lu Qin. <br>
 Manipulating Structural Graph Clustering. <br>
