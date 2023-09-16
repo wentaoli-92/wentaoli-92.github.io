@@ -69,35 +69,35 @@ International Conference on Very Large Data Bases (VLDB), 2022. [<font color=red
 
 - **Wentao Li**, Min Gao, Dong Wen, Hongwei Zhou, Cai Ke, Lu Qin. <br>
 Manipulating Structural Graph Clustering. <br>
-IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font> | <a href="file/MSCAN_ICDE_2022.pdf">PDF</a>]
+IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A, CORE A*</font> | <a href="file/MSCAN_ICDE_2022.pdf">PDF</a>]
 
 - Junhua Zhang, **Wentao Li\***, Lu Qin, Ying Zhang, Dong Wen, Lizhen Cui, Xuemin Lin. <br>
 Reachability Labeling for Distributed Graphs. <br>
-IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A</font> | <a href="file/DRL_ICDE_2022.pdf">PDF</a>]
+IEEE International Conference on Data Engineering (ICDE), 2022. [<font color=red>CCF A, CORE A*</font> | <a href="file/DRL_ICDE_2022.pdf">PDF</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Distance Labeling: on Parallelism, Compression, and Ordering. <br>
-The VLDB Journal, 2022. [<font color=red>CCF A</font> | <a href="file/PSL_VLDBJ_2022.pdf">PDF</a>]
+The VLDB Journal, 2022. [<font color=red>CCF A, CORE A*</font> | <a href="file/PSL_VLDBJ_2022.pdf">PDF</a>]
 
 - **Wentao Li**, Min Gao, Fan Wu, Wenge Rong, Junhao Wen, Lu Qin. <br>
 Manipulating Black-Box Networks for Centrality Promotion. <br>
-IEEE International Conference on Data Engineering (ICDE), 2021. [<font color=red>CCF A</font> | <a href="file/CPN_ICDE_2021.pdf">PDF</a> | <a href="file/CPN_SLIDES_2021.pdf">SLIDES</a>]
+IEEE International Conference on Data Engineering (ICDE), 2021. [<font color=red>CCF A, CORE A*</font> | <a href="file/CPN_ICDE_2021.pdf">PDF</a> | <a href="file/CPN_SLIDES_2021.pdf">SLIDES</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Scaling Up Distance Labeling on Graphs with Core-Periphery Properties. <br>
-International Conference on Management of Data (SIGMOD), 2020. [<font color=red>CCF A</font> | <a href="file/CTL_SIGMOD_2020.pdf">PDF</a> | <a href="file/CTL_SLIDES_2020.pdf">SLIDES</a> | <a href="file/CTL_CODE_2020.zip">CODE</a>]
+International Conference on Management of Data (SIGMOD), 2020. [<font color=red>CCF A, CORE A*</font> | <a href="file/CTL_SIGMOD_2020.pdf">PDF</a> | <a href="file/CTL_SLIDES_2020.pdf">SLIDES</a> | <a href="file/CTL_CODE_2020.zip">CODE</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Scaling Distance Labeling on Small-World Networks. <br>
-International Conference on Management of Data (SIGMOD), 2019. [<font color=red>CCF A</font> | <a href="file/PSL_SIGMOD_2019.pdf">PDF</a> | <a href="file/PSL_SLIDES_2019.pdf">SLIDES</a> | <a href="file/PSL_CODE_2019.zip">CODE</a>]
+International Conference on Management of Data (SIGMOD), 2019. [<font color=red>CCF A, CORE A*</font> | <a href="file/PSL_SIGMOD_2019.pdf">PDF</a> | <a href="file/PSL_SLIDES_2019.pdf">SLIDES</a> | <a href="file/PSL_CODE_2019.zip">CODE</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Eccentricities on Small-World Networks. <br>
-The VLDB Journal, 2019. [<font color=red>CCF A</font> | <a href="file/ECC_VLDBJ_2019.pdf">PDF</a>]
+The VLDB Journal, 2019. [<font color=red>CCF A, CORE A*</font> | <a href="file/ECC_VLDBJ_2019.pdf">PDF</a>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Exacting Eccentricity for Small-World Networks. <br>
-IEEE International Conference on Data Engineering (ICDE), 2018. [<font color=red>CCF A</font> | <a href="file/ECC_ICDE_2018.pdf">PDF</a> | <a href="file/ECC_SLIDES_2018.pdf">SLIDES</a>]
+IEEE International Conference on Data Engineering (ICDE), 2018. [<font color=red>CCF A, CORE A*</font> | <a href="file/ECC_ICDE_2018.pdf">PDF</a> | <a href="file/ECC_SLIDES_2018.pdf">SLIDES</a>]
 
 - Min Gao, **Wentao Li**. <br>
 Shilling Attacks and Detection in Social Recommender Systems. <br>
@@ -116,13 +116,9 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 Numeric Constrained Shortest Path Query Processing on Road Networks. <br>
 National Natural Science Foundation of China (NSFC), 62302417, 2024-2026.
 
-- Wei Wang, **Wentao Li**, Yihao Fu, Changkai Mai. <br>
-Cardinality Estimation Based on Mixture of Pre-Trained Large Models and Efficient Model Update Mechanisms. <br>
-CCF Fund, 2023-2024.
-
 ## Academia Services
 - Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, etc.
-- PC Member: AAAI 2023-2024, DASFAA 2023-2024, SIGIR 2022, PAKDD 2021-2023, ADMA 2023, ADC 2021-2023, WISE Demo 2021, etc.
+- PC Member: AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023, ADC 2021-2023, SIGIR 2022, WISE Demo 2021, etc.
 - Session Chair: ICDE 2023, etc.
 - External Reviewer: SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
 
