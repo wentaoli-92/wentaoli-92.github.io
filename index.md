@@ -115,10 +115,6 @@ Acta Automatica Sinica, 2017. [<font color=red>CCF T1</font>]
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
 Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
 
-## Fundings
-- **Wentao Li**. <br>
-Numeric Constrained Shortest Path Query Processing on Road Networks. <br>
-National Natural Science Foundation of China (NSFC), 62302417, 2024-2026.
 
 ## Academia Services
 - Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, etc.
