@@ -45,7 +45,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 - **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
 Expanding Reverse Nearest Neighbors. <br>
-International Conference on Very Large Data Bases (VLDB), 2024 (Shepherd Accepted). [<font color=red>CCF A, CORE A*</font>]
+International Conference on Very Large Data Bases (VLDB), 2024 (Accepted). [<font color=red>CCF A, CORE A*</font>]
 
 - Zongwei Wang, Min Gao*, **Wentao Li\***, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
 Efficient Bi-Level Optimization for Recommendation Denoising. <br>
