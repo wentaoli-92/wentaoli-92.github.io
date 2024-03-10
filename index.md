@@ -45,7 +45,11 @@ His general research interests mainly focus on the areas of big data processing 
 
 - **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
 Expanding Reverse Nearest Neighbors. <br>
-International Conference on Very Large Data Bases (VLDB), 2024 (Accepted). [<font color=red>CCF A, CORE A*</font>]
+International Conference on Very Large Data Bases (VLDB), 2024. [<font color=red>CCF A, CORE A*</font>]
+
+- Mingyu Yang, **Wentao Li\***, Wei Wang, Dong Wen, Lu Qin. <br>
+Querying Numeric-Constrained Shortest Distances on Road Networks. <br>
+IEEE International Conference on Data Engineering (ICDE), 2024. [<font color=red>CCF A, CORE A*</font>]
 
 - Zongwei Wang, Min Gao*, **Wentao Li\***, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
 Efficient Bi-Level Optimization for Recommendation Denoising. <br>
@@ -53,7 +57,7 @@ International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. 
 
 - Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang, Wenjie Zhang. <br>
 Label-Constrained Shortest Path Query Processing on  Road Networks. <br>
-The VLDB Journal, 2023 (Accepted). [<font color=red>CCF A, CORE A*</font>]
+The VLDB Journal, 2023. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
@@ -118,7 +122,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 ## Academia Services
 - Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, etc.
-- PC Member: AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023, ADC 2021-2023, SIGIR 2022, WISE Demo 2021, etc.
+- PC Member: AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023-2024, ADC 2021-2023, SIGIR 2022, WISE Demo 2021, etc.
 - Session Chair: ICDE 2023, etc.
 - External Reviewer: SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
 
