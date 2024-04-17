@@ -61,7 +61,7 @@ The VLDB Journal, 2023. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
-International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A, CORE A*</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>]
+International Conference on Management of Data (SIGMOD), 2022. [<font color=red>CCF A, CORE A*</font> | <a href="file/IFECC_SIGMOD_2022.pdf">PDF</a>| <a href="file/SIGMOD22_ECC_Slides.pptx">SLIDES</a> | <a href="file/SIGMOD22_ECC.zip">CODE</a>]
 
 - Junhua Zhang, **Wentao Li\***, Long Yuan, Lu Qin, Ying Zhang, Lijun Chang. <br>
 Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement. <br>
