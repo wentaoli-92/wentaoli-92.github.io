@@ -37,9 +37,11 @@ Dr. Wentao Li is currently serving as a Postdoc Researcher at The Hong Kong Univ
 
 His general research interests mainly focus on the areas of big data processing and mining. Currently, He is working on the following research topics:
 
-- Data base: graph data processing, parallel graph algorithms;
+- Vector Databases: (approximate) nearest neighbor search, distance computation, range queries;
+- 
+- Graph Databases: graph query processing, social network analysis, parallel computation;
 
-- Data mining: recommendation systems, adversarial attacks.
+- Data Mining: recommendation systems, adversarial attacks.
 
 ## Selected Publications (* indicates Corresponding Author)
 
