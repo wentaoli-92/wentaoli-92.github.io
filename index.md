@@ -43,6 +43,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 - Data Mining: recommendation systems, adversarial attacks.
 
+<!-- 
 ## Selected Publications (* indicates Corresponding Author)
 
 - **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
@@ -120,11 +121,11 @@ Acta Automatica Sinica, 2017. [<font color=red>CCF T1</font>]
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
 Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
-
+-->
 
 ## Academia Services
 - Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, etc.
-- PC Member: AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023-2024, ADC 2021-2023, SIGIR 2022, WISE Demo 2021, etc.
+- PC Member: ICDE 2024, AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023-2024, ADC 2021-2023, SIGIR 2022, WISE Demo 2021, etc.
 - Session Chair: ICDE 2023-2024, etc.
 - External Reviewer: SIGKDD 2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
 
