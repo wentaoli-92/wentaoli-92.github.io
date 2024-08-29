@@ -54,13 +54,13 @@ International Conference on Very Large Data Bases (VLDB), 2024. [<font color=red
 Querying Numeric-Constrained Shortest Distances on Road Networks. <br>
 IEEE International Conference on Data Engineering (ICDE), 2024. [<font color=red>CCF A, CORE A*</font>]
 
+- Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang, Wenjie Zhang. <br>
+Label-Constrained Shortest Path Query Processing on  Road Networks. <br>
+The VLDB Journal, 2024. [<font color=red>CCF A, CORE A*</font>]
+
 - Zongwei Wang, Min Gao*, **Wentao Li\***, Junliang Yu, LinXin Guo, Hongzhi Yin. <br>
 Efficient Bi-Level Optimization for Recommendation Denoising. <br>
 International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023. [<font color=red>CCF A, CORE A*</font>]
-
-- Junhua Zhang, Long Yuan, **Wentao Li**, Lu Qin, Ying Zhang, Wenjie Zhang. <br>
-Label-Constrained Shortest Path Query Processing on  Road Networks. <br>
-The VLDB Journal, 2023. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin. <br>
 On Scalable Computation of Graph Eccentricities. <br>
@@ -124,8 +124,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 
 ## Academia Services
-- Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, Knowledge and Information Systems, Data Science and Engineering
-, etc.
+- Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, Knowledge and Information Systems, Data Science and Engineering, etc.
 - PC Member: ICDE 2024, AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023-2024, ADC 2021-2024, SIGIR 2022, WISE Demo 2021, etc.
 - Session Chair: ICDE 2023-2024, etc.
 - External Reviewer: SIGKDD 2023-2024，2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
