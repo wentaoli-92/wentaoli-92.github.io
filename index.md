@@ -125,7 +125,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 ## Academia Services
 - Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, Knowledge and Information Systems, Data Science and Engineering, etc.
-- PC Member: ICDE 2024, AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023-2024, ADC 2021-2024, SIGIR 2022, WISE Demo 2021, etc.
+- PC Member: ICDE 2024, AAAI 2023-2024, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023-2024, APWEB 2024, ADC 2021-2024, SIGIR 2022, WISE Demo 2021, etc.
 - Session Chair: ICDE 2023-2024, etc.
 - External Reviewer: SIGKDD 2023-2024，2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
 
