@@ -5,11 +5,9 @@ layout: default
 <table border="0" frame=void ules=none cellspacing=0 width="100%">
 <tr>
 <td width="60%"> 
- Postdoc Researcher <br> <br>
- Data Science and Analytics (DSA) Thrust <br> <br>
- Information Hub <br> <br>
- The Hong Kong University of Science and Technology (Guangzhou) <br> <br>
- Guangzhou, China <br> <br>
+ Lecturer <br> <br>
+ School of Computing and Mathematical Sciences <br> <br>
+ University of Leicester, UK <br> <br>
  livent@126.com
  <div>
  <span>
@@ -45,6 +43,10 @@ His general research interests mainly focus on the areas of big data processing 
 
 
 ## Selected Publications (* indicates Corresponding Author)
+
+- Wenqian Zhang, Zhengyi Yang, Dong Wen, **Wentao Li**, Wenjie Zhang, Xuemin Lin. <br>
+Accelerating Core Decomposition in Billion-Scale Hypergraphs. <br>
+International Conference on Management of Data (SIGMOD), 2025.
 
 - **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
 Expanding Reverse Nearest Neighbors. <br>
@@ -125,7 +127,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 ## Academia Services
 - Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, Knowledge and Information Systems, Data Science and Engineering, etc.
-- PC Member: ICDE 2025, AAAI 2023-2025, DASFAA 2023-2024, PAKDD 2021-2024, ADMA 2023-2024, APWEB 2024, ADC 2021-2024, SIGIR 2022, WISE Demo 2021, etc.
+- PC Member: ICDE 2025, AAAI 2023-2025, DASFAA 2023-2024, PAKDD 2021-2025, ADMA 2023-2024, APWEB 2024, ADC 2021-2024, SIGIR 2022, WISE Demo 2021, etc.
 - Session Chair: ICDE 2023-2024, etc.
 - External Reviewer: SIGKDD 2024-2025，2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
 
