@@ -29,7 +29,7 @@ layout: default
 
 ## Biography
 
-Dr. Wentao Li is currently serving as a Postdoc Researcher at The Hong Kong University of Science and Technology (Guangzhou) since 2023, working under the supervision of Prof. [Wei Wang](https://cse.hkust.edu.hk/~weiwcs/). Previously, from 2020 to 2022, he held the position of Postdoc Researcher at the University of Technology Sydney (UTS) under the guidance of Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin). He completed his Ph.D. study at UTS in 2021, advised by Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), Prof. [Ying Zhang](https://www.uts.edu.au/staff/ying.zhang), and Dr. [Miao Qiao](https://profiles.auckland.ac.nz/miao-qiao). He obtained his master's degree from Chongqing University in 2016 and his bachelor's degree from Nanchang Hangkong University in 2013.
+Dr Wentao Li is currently a Lecturer at the University of Leicester since 2023. Before that, he was a postdoctoral researcher at Hong Kong University of Science and Technology (Guangzhou) from 2022 to 2023, working under the supervision of Prof. [Wei Wang](https://cse.hkust.edu.hk/~weiwcs/). Previously, from 2020 to 2022, he held the position of Postdoc Researcher at the University of Technology Sydney (UTS) under the guidance of Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin). He completed his Ph.D. study at UTS in 2021, advised by Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), Prof. [Ying Zhang](https://www.uts.edu.au/staff/ying.zhang), and Dr. [Miao Qiao](https://profiles.auckland.ac.nz/miao-qiao). He obtained his master's degree from Chongqing University in 2016 and his bachelor's degree from Nanchang Hangkong University in 2013.
 
 ## Research Interests
 
