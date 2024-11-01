@@ -8,7 +8,7 @@ layout: default
  Lecturer <br> <br>
  School of Computing and Mathematical Sciences <br> <br>
  University of Leicester, UK <br> <br>
- livent@126.com
+ livent@126.com <br> <br>
  <div>
  <span>
  <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
@@ -46,7 +46,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 - Wenqian Zhang, Zhengyi Yang, Dong Wen, **Wentao Li**, Wenjie Zhang, Xuemin Lin. <br>
 Accelerating Core Decomposition in Billion-Scale Hypergraphs. <br>
-International Conference on Management of Data (SIGMOD), 2025.
+International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
 Expanding Reverse Nearest Neighbors. <br>
