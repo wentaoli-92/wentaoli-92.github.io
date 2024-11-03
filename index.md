@@ -37,9 +37,9 @@ His general research interests mainly focus on the areas of big data processing 
 
 <!-- - Vector Databases: (approximate) nearest neighbor search, distance computation, range queries; -->
 
-- Graph Databases: graph query processing, social network analysis, parallel computation;
+- Data Processing: Graph Processing, Social Network Analysis, Parallel Computation;
 
-- Graph Mining: recommender systems, AI4DB.
+- Data Mining: Recommender Systems, Vector Databases, AI4DB.
 
 
 ## Selected Publications (* indicates Corresponding Author)
