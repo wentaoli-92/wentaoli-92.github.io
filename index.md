@@ -44,6 +44,14 @@ His general research interests mainly focus on the areas of big data processing 
 
 ## Selected Publications (* indicates Corresponding Author)
 
+- Weizhe Chen, **Wentao Li\***， Min Gao, Dong Wen, Maolin Cai, Wei Wang. <br>
+Locally Balancing Signed Graphs. <br>
+International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. [<font color=red>CCF A, CORE A*</font>]
+
+- Dian Ouyang, Dong Wen, Jianye Yang, **Wentao Li**, Xuemin Lin. <br>
+Weight-Constrained Simple Path Enumeration in Weighted Graph. <br>
+International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. [<font color=red>CCF A, CORE A*</font>]
+
 - Wenqian Zhang, Zhengyi Yang, Dong Wen, **Wentao Li**, Wenjie Zhang, Xuemin Lin. <br>
 Accelerating Core Decomposition in Billion-Scale Hypergraphs. <br>
 International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
