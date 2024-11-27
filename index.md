@@ -29,7 +29,7 @@ layout: default
 
 ## Biography
 
-Dr Wentao Li is currently a Lecturer at the University of Leicester since 2024. Before that, he was a postdoctoral researcher at Hong Kong University of Science and Technology (Guangzhou) from 2023 to 2024, working under the supervision of Prof. [Wei Wang](https://cse.hkust.edu.hk/~weiwcs/). Moreover, from 2020 to 2022, he held the position of Postdoc Researcher at the University of Technology Sydney (UTS) under the guidance of Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin). He completed his Ph.D. study at UTS in 2021, advised by Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), Prof. [Ying Zhang](https://www.uts.edu.au/staff/ying.zhang), and Dr. [Miao Qiao](https://profiles.auckland.ac.nz/miao-qiao). He obtained his master's degree from Chongqing University in 2016 and his bachelor's degree from Nanchang Hangkong University in 2013.
+Dr Wentao Li is currently a Lecturer at the University of Leicester since 2024. Before that, he was a postdoctoral researcher at Hong Kong University of Science and Technology (Guangzhou) from 2023 to 2024, working under the supervision of Prof. [Wei Wang](https://cse.hkust.edu.hk/~weiwcs/). Moreover, from 2020 to 2022, he held the position of postdoctoral Researcher at the University of Technology Sydney (UTS) under the guidance of Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin). He completed his Ph.D. study at UTS in 2021, advised by Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), Prof. [Ying Zhang](https://www.uts.edu.au/staff/ying.zhang), and Dr. [Miao Qiao](https://profiles.auckland.ac.nz/miao-qiao). He obtained his master's degree from Chongqing University in 2016 and his bachelor's degree from Nanchang Hangkong University in 2013.
 
 ## Research Interests
 
@@ -55,6 +55,10 @@ International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. 
 - Wenqian Zhang, Zhengyi Yang, Dong Wen, **Wentao Li**, Wenjie Zhang, Xuemin Lin. <br>
 Accelerating Core Decomposition in Billion-Scale Hypergraphs. <br>
 International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
+
+- Mingyu Yang, **Wentao Li**, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. <br>
+Effective and General Distance Computation for Approximate Nearest Neighbor Search
+IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
 Expanding Reverse Nearest Neighbors. <br>
