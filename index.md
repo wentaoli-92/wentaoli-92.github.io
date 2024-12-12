@@ -130,7 +130,7 @@ IEEE International Conference on Data Engineering (ICDE), 2018. [<font color=red
 
 - Min Gao, **Wentao Li**. <br>
 Shilling Attacks and Detection in Social Recommender Systems (<font color=red>Book</font>). <br>
-Science Press, 2017. [<a href = "http://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B924B71F40406437FB218658261EDA7BB000#"> LINK</a>]
+Science Press, 2017. [<a href = "http://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B924B71F40406437FB218658261EDA7BB000#">LINK</a>]
 
 - Kan Tan, Min Gao, **Wentao Li**, Renli Tian, Junhao Wen, Qingyu Xiong. <br>
 Two-layer Sampling Active Learning Algorithm for Social Spammer Detection. <br>
