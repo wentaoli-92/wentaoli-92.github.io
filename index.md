@@ -44,6 +44,10 @@ His general research interests mainly focus on the areas of big data processing 
 
 ## Selected Publications (* indicates Corresponding Author)
 
+- **Wentao Li**, Dong Wen, Lu Qin, Ying Zhang. <br>
+An Overview of Path Queries on Graphs (<font color=red>Tutorial</font>). <br>
+IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
+
 - Weizhe Chen, **Wentao Li\***， Min Gao, Dong Wen, Maolin Cai, Wei Wang. <br>
 Locally Balancing Signed Graphs. <br>
 International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. [<font color=red>CCF A, CORE A*</font>]
@@ -55,10 +59,6 @@ International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. 
 - Wenqian Zhang, Zhengyi Yang, Dong Wen, **Wentao Li**, Wenjie Zhang, Xuemin Lin. <br>
 Accelerating Core Decomposition in Billion-Scale Hypergraphs. <br>
 International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
-
-- **Wentao Li**, Dong Wen, Lu Qin, Ying Zhang. <br>
-An Overview of Path Queries on Graphs (<font color=red>Tutorial</font>). <br>
-IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
 
 - Mingyu Yang, **Wentao Li**, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. <br>
 Effective and General Distance Computation for Approximate Nearest Neighbor Search. <br>
@@ -129,8 +129,8 @@ Exacting Eccentricity for Small-World Networks. <br>
 IEEE International Conference on Data Engineering (ICDE), 2018. [<font color=red>CCF A, CORE A*</font> | <a href="file/ECC_ICDE_2018.pdf">PDF</a> | <a href="file/ECC_SLIDES_2018.pdf">SLIDES</a>]
 
 - Min Gao, **Wentao Li**. <br>
-Shilling Attacks and Detection in Social Recommender Systems. <br>
-Science Press, 2017. [<font color=red>BOOK</font> | <a href = "http://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B924B71F40406437FB218658261EDA7BB000#"> LINK</a>, In Chinese]
+Shilling Attacks and Detection in Social Recommender Systems (<font color=red>Book</font>). <br>
+Science Press, 2017. [<a href = "http://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B924B71F40406437FB218658261EDA7BB000#"> LINK</a>]
 
 - Kan Tan, Min Gao, **Wentao Li**, Renli Tian, Junhao Wen, Qingyu Xiong. <br>
 Two-layer Sampling Active Learning Algorithm for Social Spammer Detection. <br>
@@ -154,21 +154,21 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - International Conference on Data Engineering (ICDE), 2025
   - AAAI Conference on Artificial Intelligence (AAAI), 2023-2025
   - International Conference on Database Systems for Advanced Applications (DASFAA), 2023-2025
-  - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2021-2025
-  - International Conference Advanced Data Mining and Applications (ADMA) 2023-2024
-  - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM) 2024
-  - Australasian Database Conference (ADC) 2021-2024
+  - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021-2025
+  - International Conference Advanced Data Mining and Applications (ADMA), 2023-2024
+  - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2024
+  - Australasian Database Conference (ADC), 2021-2024
   - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2022
-  - International Web Information Systems Engineering conference (WISE) 2021
+  - International Web Information Systems Engineering conference (WISE),, 2021
 
 - Session Chair
   - International Conference on Data Engineering (ICDE), 2023-2024
 
 - External Reviewer
-  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD) 2024-2025, 2019-2020
-  - International Conference on Data Engineering (ICDE) 2020
-  - International Conference on Database Systems for Advanced Applications (DASFAA) 2020
-  - ACM International Conference on Information and Knowledge Management (CIKM) 2018-2019
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024-2025, 2019-2020
+  - International Conference on Data Engineering (ICDE), 2020
+  - International Conference on Database Systems for Advanced Applications (DASFAA), 2020
+  - ACM International Conference on Information and Knowledge Management (CIKM), 2018-2019
 
 ## Teaching Experiences
 - Lecturer, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025.
