@@ -57,7 +57,7 @@ Accelerating Core Decomposition in Billion-Scale Hypergraphs. <br>
 International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Dong Wen, Lu Qin, Ying Zhang. <br>
-An Overview of Path Queries on Graphs (tutorial). <br>
+An Overview of Path Queries on Graphs (<font color=red>Tutorial</font>). <br>
 IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
 
 - Mingyu Yang, **Wentao Li**, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. <br>
