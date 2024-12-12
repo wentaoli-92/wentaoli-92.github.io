@@ -158,8 +158,8 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - International Conference Advanced Data Mining and Applications (ADMA), 2023-2024
   - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2024
   - Australasian Database Conference (ADC), 2021-2024
-  - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2022
-  - International Web Information Systems Engineering conference (WISE),, 2021
+  - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022
+  - International Web Information Systems Engineering conference (WISE), 2021
 
 - Session Chair
   - International Conference on Data Engineering (ICDE), 2023-2024
