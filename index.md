@@ -142,13 +142,36 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 
 ## Academia Services
-- Journal Reviewer: TODS, TKDE, TIFS, Information Sciences, Knowledge and Information Systems, Data Science and Engineering, etc.
-- PC Member: ICDE 2025, AAAI 2023-2025, DASFAA 2023-2025, PAKDD 2021-2025, ADMA 2023-2024, APWEB 2024, ADC 2021-2024, SIGIR 2022, WISE 2021, etc.
-- Session Chair: ICDE 2023-2024, etc.
-- External Reviewer: SIGKDD 2024-2025，2019-2020, ICDE 2020, DASFAA 2020, CIKM 2018-2019, etc.
+- Journal Reviewer
+ - ACM Transactions on Database Systems (TODS)
+ - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+ - IEEE Transactions on Information Forensics and Security (TIFS)
+ - Information Sciences
+ - Knowledge and Information Systems
+ - Data Science and Engineering
 
+- Program Committee Member
+ - International Conference on Data Engineering (ICDE), 2025
+ - AAAI Conference on Artificial Intelligence (AAAI), 2023-2025
+ - International Conference on Database Systems for Advanced Applications (DASFAA), 2023-2025
+ - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2021-2025
+ - International Conference Advanced Data Mining and Applications (ADMA) 2023-2024
+ - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM) 2024
+ - Australasian Database Conference (ADC) 2021-2024
+ - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2022
+ - International Web Information Systems Engineering conference (WISE) 2021
+
+- Session Chair
+ - International Conference on Data Engineering (ICDE), 2023-2024
+
+- External Reviewer
+ - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD) 2024-2025, 2019-2020
+ - International Conference on Data Engineering (ICDE) 2020
+ - International Conference on Database Systems for Advanced Applications (DASFAA) 2020
+ - ACM International Conference on Information and Knowledge Management (CIKM) 2018-2019
 
 ## Teaching Experiences
+- Lecturer, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025.
 - Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Autumn Session 2022.
