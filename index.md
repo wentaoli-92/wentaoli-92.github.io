@@ -48,7 +48,7 @@ His general research interests mainly focus on the areas of big data processing 
 An Overview of Path Queries on Graphs (<font color=red>Tutorial</font>). <br>
 IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
 
-- Weizhe Chen, **Wentao Li\***， Min Gao, Dong Wen, Maolin Cai, Wei Wang. <br>
+- Weizhe Chen, **Wentao Li\***, Min Gao, Dong Wen, Maolin Cai, Wei Wang. <br>
 Locally Balancing Signed Graphs. <br>
 International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. [<font color=red>CCF A, CORE A*</font>]
 
