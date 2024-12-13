@@ -7,7 +7,7 @@ layout: default
 <td width="60%"> 
  Lecturer <br> <br>
  School of Computing and Mathematical Sciences <br> <br>
- University of Leicester, UK <br> <br>
+ University of Leicester, United Kingdom <br> <br>
  livent@126.com <br> <br>
  <div>
  <span>
