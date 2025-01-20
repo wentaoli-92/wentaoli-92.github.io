@@ -64,6 +64,10 @@ International Conference on Management of Data (SIGMOD), 2025. [<font color=red>
 Effective and General Distance Computation for Approximate Nearest Neighbor Search. <br>
 IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
 
+- Junwei Yin, Min Gao, Kai Shu, **Wentao Li**, Yinqiu Huang, Zongwei Wang. <br>
+Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection. <br>
+International World Wide Web Conference (WWW), 2025. [<font color=red>CCF A, CORE A*</font>]
+
 - **Wentao Li**, Maolin Cai, Min Gao, Dong Wen, Lu Qin, Wei Wang. <br>
 Expanding Reverse Nearest Neighbors. <br>
 International Conference on Very Large Data Bases (VLDB), 2024. [<font color=red>CCF A, CORE A*</font>]
