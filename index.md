@@ -4,7 +4,7 @@ layout: default
 
 <table border="0" frame=void ules=none cellspacing=0 width="100%">
 <tr>
-<td width="60%"> 
+<td width="50%"> 
  Lecturer <br> <br>
  School of Computing and Mathematical Sciences <br> <br>
  University of Leicester, United Kingdom <br> <br>
