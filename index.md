@@ -24,11 +24,8 @@ layout: default
  </div> 
 </td>
  
-<td width="20%">
- <img src="file/wentao.jpg" width=1 align=right/>
-</td>
-
-<td width="20%">
+<td width="40%">
+ <img src="file/wentao.jpg" align=right/>
 </td>
  
 </tr>
