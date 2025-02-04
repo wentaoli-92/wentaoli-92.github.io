@@ -25,7 +25,7 @@ layout: default
 </td>
  
 <td width="40%">
- <img src="file/lwt.jpeg" width=40 align=right/>
+ <img src="file/wentao.jpg" width=40 align=right/>
 </td>
  
 </tr>
