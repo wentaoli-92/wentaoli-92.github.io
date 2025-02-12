@@ -150,6 +150,10 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 
 ## Academia Services
+- Organization
+  - Program Committee Chair of 4th International Workshop on Large-Scale Graph Data Analytics (LSGDA) @VLDB, 2025.
+  - Session Chair of International Conference on Data Engineering (ICDE), 2023-2024.
+
 - Journal Reviewer
   - ACM Transactions on Database Systems (TODS).
   - IEEE Transactions on Knowledge and Data Engineering (TKDE).
@@ -157,6 +161,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - Information Sciences.
   - Knowledge and Information Systems.
   - Data Science and Engineering.
+  - Intelligent Computing.
 
 - Program Committee Member
   - International Conference on Data Engineering (ICDE), 2025.
@@ -168,9 +173,6 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - Australasian Database Conference (ADC), 2021-2024.
   - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.
   - International Web Information Systems Engineering conference (WISE), 2021.
-
-- Session Chair
-  - International Conference on Data Engineering (ICDE), 2023-2024.
 
 - External Reviewer
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024-2025, 2019-2020.
