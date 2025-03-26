@@ -19,7 +19,7 @@ layout: default
  </span>
  ·
  <span>
- <a href="https://le.ac.uk/people/wentao-li">Homepage@Leicester U</a>
+ <a href="https://le.ac.uk/people/wentao-li">Homepage@UoL</a>
  </span>
  </div> 
 </td>
@@ -33,7 +33,9 @@ layout: default
 
 ## Biography
 
-Dr Wentao Li is currently a Lecturer at the University of Leicester since 2024. Before that, he was a postdoctoral researcher at Hong Kong University of Science and Technology (Guangzhou) from 2023 to 2024, working under the supervision of Prof. [Wei Wang](https://cse.hkust.edu.hk/~weiwcs/). Moreover, from 2020 to 2022, he held the position of postdoctoral Researcher at the University of Technology Sydney (UTS) under the guidance of Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin). He completed his Ph.D. study at UTS in 2021, advised by Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), Prof. [Ying Zhang](https://www.uts.edu.au/staff/ying.zhang), and Dr. [Miao Qiao](https://profiles.auckland.ac.nz/miao-qiao). He obtained his master's degree from Chongqing University in 2016 and his bachelor's degree from Nanchang Hangkong University in 2013.
+Dr Wentao Li is currently a Lecturer at the University of Leicester since 2024. Before that, he was a postdoctoral researcher at Hong Kong University of Science and Technology (Guangzhou) from 2023 to 2024, working under the supervision of Prof. [Wei Wang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Wei/weiwcs). Moreover, from 2020 to 2022, he held the position of postdoctoral Researcher at the University of Technology Sydney (UTS) under the guidance of Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin). He completed his Ph.D. study at UTS in 2021, advised by Prof. [Lu Qin](https://www.uts.edu.au/staff/lu.qin), Prof. [Ying Zhang](https://www.uts.edu.au/staff/ying.zhang), and Dr. [Miao Qiao](https://profiles.auckland.ac.nz/miao-qiao). He obtained his master's degree from Chongqing University in 2016 and his bachelor's degree from Nanchang Hangkong University in 2013.
+
+His research interests are in data management and mining, with a particular focus on graph data processing and mining. To date, he has published more than 20 CORE A*-level papers (including SIGMOD, VLDB, SIGKDD, ICDE, The Web Conference, and VLDBJ), authored one monograph, and obtained one patent (generating 1.01 million RMB in business transformation revenue). He has also served as a program committee member for top conferences such as ICDE and AAAI, and as a reviewer for journals such as ACM TODS and IEEE TKDE. He was selected as one of the 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence by Baidu Scholar.
 
 ## Research Interests
 
@@ -66,6 +68,10 @@ International Conference on Management of Data (SIGMOD), 2025. [<font color=red>
 
 - Mingyu Yang, **Wentao Li**, Jiabao Jin, Xiaoyao Zhong, Xiangyu Wang, Zhitao Shen, Wei Jia, Wei Wang. <br>
 Effective and General Distance Computation for Approximate Nearest Neighbor Search. <br>
+IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
+
+- Zebin Chen, Kaiyu Chen, Dong Wen, Zhengyi Yang, **Wentao Li**, Ying Zhang. <br>
+Accelerating Shortest Path Counting on Road Networks. <br>
 IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
 
 - Junwei Yin, Min Gao, Kai Shu, **Wentao Li**, Yinqiu Huang, Zongwei Wang. <br>
@@ -169,7 +175,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - International Conference on Database Systems for Advanced Applications (DASFAA), 2023-2025.
   - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021-2025.
   - International Conference Advanced Data Mining and Applications (ADMA), 2023-2024.
-  - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2024.
+  - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2025.
   - Australasian Database Conference (ADC), 2021-2024.
   - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.
   - International Web Information Systems Engineering conference (WISE), 2021.
