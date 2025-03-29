@@ -37,6 +37,14 @@ Dr Wentao Li is currently a Lecturer at the University of Leicester since 2024. 
 
 His research interests are in data management and mining, with a particular focus on graph data processing and mining. To date, he has published more than 20 CORE A*-level papers (including SIGMOD, VLDB, SIGKDD, ICDE, The Web Conference, and VLDBJ), authored one monograph, and obtained one patent (generating 1.01 million RMB in business transformation revenue). He has also served as a program committee member for top conferences such as ICDE and AAAI, and as a reviewer for journals such as ACM TODS and IEEE TKDE. He was selected as one of the 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence by Baidu Scholar.
 
+## News
+
+I am looking for highly motivated PhD students, including CSC Joint PhD candidates, to join me at the University of Leicester. Our work focuses on cutting-edge research in graph data processing, graph mining, and vector databases.
+
+If you are passionate about these areas and eager to contribute to innovative research, please feel free to contact me with your CV and Research Statement at wl226@leicester.ac.uk or livent@126.com.
+
+For more information about PhD opportunities with GTA-funded scholarships, please refer to the following <a href = "https://www.findaphd.com/phds/project/gta-funded-data-driven-vital-node-identification-in-networks/?p183249">LINK</a>.
+
 ## Research Interests
 
 His general research interests mainly focus on the areas of big data processing and mining. Currently, He is working on the following research topics:
