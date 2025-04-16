@@ -43,9 +43,9 @@ I am looking for highly motivated PhD students, including CSC Joint PhD candidat
 
 If you are passionate about these areas and eager to contribute to innovative research, please feel free to contact me with your CV and Research Statement at wl226@leicester.ac.uk or livent@126.com.
 
-- For UK students seeking PhD opportunities with GTA-funded scholarships, please refer to the following <a href = "https://www.findaphd.com/phds/project/gta-funded-data-driven-vital-node-identification-in-networks/?p183249">link</a>.
+- For UK students seeking PhD opportunities with GTA-funded scholarships, please refer to the <a href = "https://www.findaphd.com/phds/project/gta-funded-data-driven-vital-node-identification-in-networks/?p183249">link</a>.
 
-- For Chinese students interested in PhD opportunities supported by CSC-funded scholarships, please refer to the following <a href = "https://le.ac.uk/study/research-degrees/funded-opportunities/china-scholarship-council">link</a>.
+- For Chinese students interested in PhD opportunities supported by CSC-funded scholarships, please refer to the <a href = "https://le.ac.uk/study/research-degrees/funded-opportunities/china-scholarship-council">link</a>.
 
 
 ## Research Interests
