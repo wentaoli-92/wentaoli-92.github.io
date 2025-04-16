@@ -43,7 +43,10 @@ I am looking for highly motivated PhD students, including CSC Joint PhD candidat
 
 If you are passionate about these areas and eager to contribute to innovative research, please feel free to contact me with your CV and Research Statement at wl226@leicester.ac.uk or livent@126.com.
 
-For more information about PhD opportunities with GTA-funded scholarships, please refer to the following <a href = "https://www.findaphd.com/phds/project/gta-funded-data-driven-vital-node-identification-in-networks/?p183249">LINK</a>.
+- For UK students seeking PhD opportunities with GTA-funded scholarships, please refer to the following <a href = "https://www.findaphd.com/phds/project/gta-funded-data-driven-vital-node-identification-in-networks/?p183249">link</a>.
+
+- For Chinese students interested in PhD opportunities supported by CSC-funded scholarships, please refer to the following <a href = "https://le.ac.uk/study/research-degrees/funded-opportunities/china-scholarship-council">link</a>.
+
 
 ## Research Interests
 
@@ -166,7 +169,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 ## Academia Services
 - Organization
   - Program Committee Chair of 4th International Workshop on Large-Scale Graph Data Analytics (LSGDA) @VLDB, 2025.
-  - Session Chair of International Conference on Data Engineering (ICDE), 2023-2024.
+  - Session Chair of International Conference on Data Engineering (ICDE), 2023-2025.
 
 - Journal Reviewer
   - ACM Transactions on Database Systems (TODS).
@@ -182,7 +185,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - AAAI Conference on Artificial Intelligence (AAAI), 2023-2025.
   - International Conference on Database Systems for Advanced Applications (DASFAA), 2023-2025.
   - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021-2025.
-  - International Conference Advanced Data Mining and Applications (ADMA), 2023-2024.
+  - International Conference Advanced Data Mining and Applications (ADMA), 2023-2025.
   - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2025.
   - Australasian Database Conference (ADC), 2021-2024.
   - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.
