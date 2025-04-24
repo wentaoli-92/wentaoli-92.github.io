@@ -43,9 +43,9 @@ I am looking for highly motivated PhD students, including CSC Joint PhD candidat
 
 If you are passionate about these areas and eager to contribute to innovative research, please feel free to contact me with your CV and Research Statement at wl226@leicester.ac.uk or livent@126.com.
 
-- For UK students seeking PhD opportunities with GTA-funded scholarships, please refer to the <a href = "https://www.findaphd.com/phds/project/gta-funded-data-driven-vital-node-identification-in-networks/?p183249">link</a>.
+- For UK or international students seeking PhD opportunities with GTA-funded scholarships, please refer to this <a href = "https://www.findaphd.com/phds/project/gta-funded-data-driven-vital-node-identification-in-networks/?p183249">link</a>.
 
-- For Chinese students interested in PhD opportunities supported by CSC-funded scholarships, please refer to the <a href = "https://le.ac.uk/study/research-degrees/funded-opportunities/china-scholarship-council">link</a>.
+- For Chinese students interested in PhD opportunities supported by CSC-funded scholarships, please refer to this <a href = "https://le.ac.uk/study/research-degrees/funded-opportunities/china-scholarship-council">link</a>.
 
 
 ## Research Interests
@@ -198,7 +198,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - ACM International Conference on Information and Knowledge Management (CIKM), 2018-2019.
 
 ## Teaching Experiences
-- Lecturer, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025.
+- Lecturer/Convenor, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025.
 - Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Autumn Session 2022.
