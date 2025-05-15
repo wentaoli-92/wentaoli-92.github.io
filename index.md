@@ -183,6 +183,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - Knowledge and Information Systems.
   - Data Science and Engineering.
   - Intelligent Computing.
+  - Engineering Applications of Artificial Intelligence.
 
 - Program Committee Member
   - International Conference on Data Engineering (ICDE), 2025.
@@ -197,6 +198,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 - External Reviewer
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024-2025, 2019-2020.
+  - Asian Conference on Machine Learning (ACML), 2025.
   - International Conference on Data Engineering (ICDE), 2020.
   - International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
   - ACM International Conference on Information and Knowledge Management (CIKM), 2018-2019.
