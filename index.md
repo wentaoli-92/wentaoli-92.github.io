@@ -73,6 +73,10 @@ International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. 
 Weight-Constrained Simple Path Enumeration in Weighted Graph. <br>
 International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025. [<font color=red>CCF A, CORE A*</font>]
 
+- Yibing Bai, Min Gao, Zongwei Wang, Xinyi Gao, **Wentao Li**. <br>
+Progressive Stacking for Scalable Graph Condensation. <br>
+International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
+
 - Wenqian Zhang, Zhengyi Yang, Dong Wen, **Wentao Li**, Wenjie Zhang, Xuemin Lin. <br>
 Accelerating Core Decomposition in Billion-Scale Hypergraphs. <br>
 International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
