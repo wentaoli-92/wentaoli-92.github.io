@@ -196,7 +196,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021-2026.
   - International Conference Advanced Data Mining and Applications (ADMA), 2023-2025.
   - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2025.
-  - Australasian Database Conference (ADC), 2021-2024.
+  - Australasian Database Conference (ADC), 2021-2025.
   - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.
   - International Web Information Systems Engineering conference (WISE), 2021.
 
@@ -208,6 +208,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - ACM International Conference on Information and Knowledge Management (CIKM), 2018-2019.
 
 ## Teaching Experiences
+- Lecturer/Convenor, CO4105/CO7105 Advanced C++ Programming, <br> University of Leicester, Autumn Session 2026.
 - Lecturer/Convenor, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025.
 - Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2022.
