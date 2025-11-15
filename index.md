@@ -222,7 +222,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 ## Teaching Experiences
 - Lecturer/Convenor, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025-2026.
 - Lecturer/Convenor, CO4105/CO7105 Advanced C++ Programming, <br> University of Leicester, Autumn Session 2025.
-- Teaching Staff, CO7201 MSc Individual Project, <br> University of Leicester, 2025-2026.
+- Teaching Staff, CO7201 MSc Individual Project, <br> University of Leicester, 2025.
 - Teaching Staff, CO3201/CO3204 Computer Science Project, <br> University of Leicester, 2024-2026.
 - Guest Lecturer, Data Analytics for Graphs, <br> University of New South Wales, Autumn Session 2022.
 - Tutor, Studio 3: Innovation (Machine Learning), <br> University of Technology Sydney, Spring Session 2022.
