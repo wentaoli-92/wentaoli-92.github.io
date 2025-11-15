@@ -60,7 +60,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 ## Selected Publications (* indicates Corresponding Author)
 
-1. Mingyu Yang, Wenxuan Xia, **Wentao Li**, Raymond Chi-Wing Wong, Wei Wang. <br>
+- Mingyu Yang, Wenxuan Xia, **Wentao Li**, Raymond Chi-Wing Wong, Wei Wang. <br>
 Elastic Index Selection for Label-Hybrid AKNN Search (<font color=red>Tutorial</font>). <br>
 International Conference on Very Large Data Bases (VLDB), 2026. [<font color=red>CCF A, CORE A*</font>]
 
