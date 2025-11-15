@@ -61,11 +61,11 @@ His general research interests mainly focus on the areas of big data processing 
 ## Selected Publications (* indicates Corresponding Author)
 
 - Mingyu Yang, Wenxuan Xia, **Wentao Li**, Raymond Chi-Wing Wong, Wei Wang. <br>
-Elastic Index Selection for Label-Hybrid AKNN Search (<font color=red>Tutorial</font>). <br>
+Elastic Index Selection for Label-Hybrid AKNN Search. <br>
 International Conference on Very Large Data Bases (VLDB), 2026. [<font color=red>CCF A, CORE A*</font>]
 
 - Dian Ouyang, Jiajie Lin, **Wentao Li**, Fan Zhang, Jianye Yang, Xi Luo. <br>
-TRIM: An Efficient Framework for Exact Eccentricity Computation on Large-Scale Graphs (<font color=red>Tutorial</font>). <br>
+TRIM: An Efficient Framework for Exact Eccentricity Computation on Large-Scale Graphs. <br>
 International Conference on Very Large Data Bases (VLDB), 2026. [<font color=red>CCF A, CORE A*</font>]
 
 - **Wentao Li**, Dong Wen, Lu Qin, Ying Zhang. <br>
