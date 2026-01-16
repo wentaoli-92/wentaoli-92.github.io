@@ -55,13 +55,21 @@ His general research interests mainly focus on the areas of big data processing 
 
 - Data Processing: Graph Processing, Social Network Analysis, Parallel Computation;
 
-- Data Mining: Recommender Systems, Vector Databases, AI4DB.
+- Data Mining: Vector Databases, LLM, Recommender Systems, AI4DB.
 
 
 ## Selected Publications (* indicates Corresponding Author)
 
+- Mingyu Yang,  **Wentao Li\***, Wei Wang, Dong Wen, Min Gao, and Lu Qin. <br>
+Structural Clustering for Bipartite Graphs. <br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. [<font color=red>CCF A, CORE A*</font>]
+
 - Mingyu Yang, Wenxuan Xia, **Wentao Li**, Raymond Chi-Wing Wong, Wei Wang. <br>
 Elastic Index Selection for Label-Hybrid AKNN Search. <br>
+International Conference on Very Large Data Bases (VLDB), 2026. [<font color=red>CCF A, CORE A*</font>]
+
+- Mingyu Yang, Liuchang Jin, **Wentao Li**, Wei Wang. <br>
+Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search. <br>
 International Conference on Very Large Data Bases (VLDB), 2026. [<font color=red>CCF A, CORE A*</font>]
 
 - Dian Ouyang, Jiajie Lin, **Wentao Li**, Fan Zhang, Jianye Yang, Xi Luo. <br>
@@ -71,10 +79,6 @@ International Conference on Very Large Data Bases (VLDB), 2026. [<font color=red
 - **Wentao Li**, Dong Wen, Lu Qin, Ying Zhang. <br>
 An Overview of Path Queries on Graphs (<font color=red>Tutorial</font>). <br>
 IEEE International Conference on Data Engineering (ICDE), 2025. [<font color=red>CCF A, CORE A*</font>]
-
-- Mingyu Yang,  **Wentao Li\***, Wei Wang, Dong Wen, Min Gao, and Lu Qin. <br>
-Structural Clustering for Bipartite Graphs. <br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025. [<font color=red>CCF A, CORE A*</font>]
 
 - Weizhe Chen, **Wentao Li\***, Min Gao, Dong Wen, Maolin Cai, Wei Wang. <br>
 Locally Balancing Signed Graphs. <br>
@@ -188,17 +192,19 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 
 - Journal Reviewer
   - ACM Transactions on Database Systems (TODS).
+  - The VLDB Journal (VLDBJ).
   - IEEE Transactions on Knowledge and Data Engineering (TKDE).
   - IEEE Transactions on Information Forensics and Security (TIFS).
   - Information Sciences.
-  - Information Processing and Management
+  - Information Processing and Management.
   - Knowledge and Information Systems.
   - Data Science and Engineering.
   - The Journal of Supercomputing.
   - Physica A: Statistical Mechanics and its Applications.
-  - Applied Mathematical Modelling
+  - Applied Mathematical Modelling.
   - Intelligent Computing.
   - Engineering Applications of Artificial Intelligence.
+  - Intelligent Journal System.
 
 - Program Committee Member
   - AAAI Conference on Artificial Intelligence (AAAI), 2023-2026.
@@ -208,7 +214,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021-2026.
   - International Conference Advanced Data Mining and Applications (ADMA), 2023-2025.
   - Asian Conference on Machine Learning (ACML), 2025.
-  - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2025.
+  - APWeb-WAIM joint International Conference on Web and Big Data (APWEB-WAIM), 2025-2026.
   - Australasian Database Conference (ADC), 2021-2026.
   - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.
   - International Web Information Systems Engineering conference (WISE), 2021.
