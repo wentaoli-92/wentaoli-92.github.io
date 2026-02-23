@@ -64,11 +64,11 @@ His general research interests mainly focus on the areas of big data processing 
 Structural Clustering for Bipartite Graphs. <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. [<font color=red>CCF A, CORE A*</font>]
 
-- Junhua Zhang, **Wentao Li**, Wenjie Zhang, Lu Qin, Xiaochun Yang. <br>
+- Junhua Zhang, Yamei Song, **Wentao Li\***, Lu Qin. <br>
 Efficient Top-k Nearest Neighbors Search in Dynamic Road Networks. <br>
 IEEE International Conference on Data Engineering (ICDE), 2026. [<font color=red>CCF A, CORE A*</font>]
 
-- Junhua Zhang, Yamei Song, **Wentao Li\***, Lu Qin. <br>
+- Junhua Zhang, **Wentao Li**, Wenjie Zhang, Lu Qin, Xiaochun Yang. <br>
 An Efficient and Scalable Approach for Path Queries on Public Transportation Networks. <br>
 IEEE International Conference on Data Engineering (ICDE), 2026. [<font color=red>CCF A, CORE A*</font>]
 
