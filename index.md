@@ -74,7 +74,7 @@ IEEE International Conference on Data Engineering (ICDE), 2026. [<font color=red
 
 - Zhao Lu, Dong Wen, **Wentao Li**, Xuemin Lin, Wenjie Zhang. <br>
 Maintaining Biconnected Components in Streaming Graphs. <br>
-International Conference on Management of Data (SIGMOD), 2025. [<font color=red>CCF A, CORE A*</font>]
+International Conference on Management of Data (SIGMOD), 2026. [<font color=red>CCF A, CORE A*</font>]
 
 - Mingyu Yang, Wenxuan Xia, **Wentao Li**, Raymond Chi-Wing Wong, Wei Wang. <br>
 Elastic Index Selection for Label-Hybrid AKNN Search. <br>
