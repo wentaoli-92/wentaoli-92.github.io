@@ -64,6 +64,10 @@ His general research interests mainly focus on the areas of big data processing 
 Structural Clustering for Bipartite Graphs. <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. [<font color=red>CCF A, CORE A*</font>]
 
+- Wenxuan Xia, Mingyu Yang, **Wentao Li**, Wei Wang. <br>
+E2E: Efficient Filtered AKNN Search via Adaptive Termination. <br>
+International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2026. [<font color=red>CCF A, CORE A*</font>]
+
 - Junhua Zhang, Yamei Song, **Wentao Li\***, Lu Qin. <br>
 Efficient Top-k Nearest Neighbors Search in Dynamic Road Networks. <br>
 IEEE International Conference on Data Engineering (ICDE), 2026. [<font color=red>CCF A, CORE A*</font>]
@@ -212,6 +216,9 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - Knowledge and Information Systems.
   - Data Science and Engineering.
   - The Journal of Supercomputing.
+  - Neurocomputing.
+  - BMC Bioinformatics.
+  - Scientific Reports.
   - Physica A: Statistical Mechanics and its Applications.
   - Applied Mathematical Modelling.
   - Intelligent Computing.
@@ -221,7 +228,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
 - Program Committee Member
   - AAAI Conference on Artificial Intelligence (AAAI), 2023-2026.
   - The Web Conference (WWW), 2026.
-  - International Conference on Data Engineering (ICDE), 2025.
+  - International Conference on Data Engineering (ICDE), 2025, 2027.
   - International Conference on Database Systems for Advanced Applications (DASFAA), 2023-2026.
   - Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021-2026.
   - International Conference Advanced Data Mining and Applications (ADMA), 2023-2025.
@@ -238,7 +245,7 @@ Acta Automatica Sinica, 2015. [<font color=red>CCF T1</font> | <a href="https://
   - ACM International Conference on Information and Knowledge Management (CIKM), 2018-2019.
 
 ## Teaching Experiences
-- Lecturer/Convenor, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025-2026.
+- Lecturer/Convenor, CO3093 Big Data and Predictive Analytics, <br> University of Leicester, Spring Session 2025, 2026.
 - Lecturer/Convenor, CO4105/CO7105 Advanced C++ Programming, <br> University of Leicester, Autumn Session 2025.
 - Teaching Staff, CO7201 MSc Individual Project, <br> University of Leicester, 2025.
 - Teaching Staff, CO3201/CO3204 Computer Science Project, <br> University of Leicester, 2024-2026.
