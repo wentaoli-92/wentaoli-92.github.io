@@ -60,7 +60,7 @@ His general research interests mainly focus on the areas of big data processing 
 
 ## Selected Publications (* indicates Corresponding Author)
 
-- Mingyu Yang,  **Wentao Li\***, Wei Wang, Dong Wen, Min Gao, and Lu Qin. <br>
+- Mingyu Yang,  **Wentao Li\***, Wei Wang, Dong Wen, Min Gao, Lu Qin. <br>
 Structural Clustering for Bipartite Graphs. <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. [<font color=red>CCF A, CORE A*</font>]
 
