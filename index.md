@@ -31,25 +31,20 @@ title: Wentao Li | Home
 
 ## Overview
 
-Dr Wentao Li is a Lecturer at the University of Leicester. His research focuses on large-scale data processing and machine learning, particularly graph data processing, graph mining, and vector databases.
+I am a Lecturer in the School of Computing and Mathematical Sciences at the University of Leicester. My research focuses on developing efficient and scalable solutions for large-scale data processing and machine learning, with particular interests in graph data processing, graph mining, and vector databases.
 
-To date, he has published more than 30 CORE A*/CCF-A level papers, including work at SIGMOD, VLDB, SIGKDD, ICDE, The Web Conference, TKDE, and VLDBJ. He has also authored one monograph and obtained one patent.
+I have published more than 30 CORE A*/CCF-A level papers, including work at SIGMOD, VLDB, SIGKDD, ICDE, The Web Conference, TKDE, and VLDBJ. I have also authored one monograph and obtained one patent. More information is available on my [Biography](/biography.html) page.
 
-## Research Interests
+## Recent Work and Activities
 
-- **Data Processing:** Graph Processing, Vector Databases, Social Network Analysis, and Parallel and Distributed Computing.
-- **Machine Learning:** Graph Mining, Large Language Models (LLMs), Recommender Systems, and AI for Combinatorial Optimization.
+- **Graph data processing:** graph processing, path queries, dynamic graphs, social network analysis, and parallel and distributed computing.
+- **Vector data management:** approximate nearest-neighbor search, filtered vector search, and vector indexing.
+- **Graph mining and machine learning:** graph mining, graph condensation, recommender systems, large language models, and AI for combinatorial optimization.
+- **Recent publications:** ICDE 2027; TKDE, SIGKDD, SIGMOD, and VLDB 2026; ICDE, SIGKDD, SIGMOD, The Web Conference, and VLDB 2025. See [Selected Publications](/publications.html).
 
-## Latest News
+## Academic Activities
 
-I am looking for highly motivated PhD students, including CSC Joint PhD candidates, to join me at the University of Leicester. Please see the [Prospective Students](/prospective-students.html) page for details.
+- Program Committee Chair of the 4th International Workshop on Large-Scale Graph Data Analytics (LSGDA) @ VLDB, 2025.
+- Session Chair of the IE
 
-Recent publications include papers in ICDE 2027, TKDE 2026, SIGKDD 2026, SIGMOD 2026, and VLDB 2026. See the complete [selected publications list](/publications.html).
-
-## Honors and Awards
-
-- [2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence](https://xueshu.baidu.com/usercenter/index/aischolar), 2021.
-- SIGMOD Travel Award, 2019.
-- Outstanding Graduate of Chongqing City, 2016.
-- Outstanding Graduate of Chongqing University, 2016.
-
+- -- 
