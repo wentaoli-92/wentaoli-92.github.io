@@ -3,14 +3,12 @@ layout: default
 title: Wentao Li | Services
 ---
 
-<div style="text-align: center; margin-bottom: 1.5rem;">
-<a href="/">Home</a> ·
-<a href="/biography.html">Biography</a> ·
-<a href="/publications.html">Publications</a> ·
-<strong>Services</strong> ·
-<a href="/teaching.html">Teaching</a> ·
-<a href="/prospective-students.html">Prospective Students</a>
-</div>
+<link rel="stylesheet" href="{{ '/css/profile-pages.css' | relative_url }}">
+
+<div class="academic-shell">
+{% include profile-sidebar.html active="services" %}
+
+<main class="academic-main" markdown="1">
 
 ## Academic Services
 
@@ -60,4 +58,7 @@ title: Wentao Li | Services
 - International Conference on Data Engineering (ICDE), 2020.
 - International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
 - ACM International Conference on Information and Knowledge Management (CIKM), 2018-2019.
+
+</main>
+</div>
 
