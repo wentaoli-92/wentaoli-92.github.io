@@ -3,14 +3,12 @@ layout: default
 title: Wentao Li | Publications
 ---
 
-<div style="text-align: center; margin-bottom: 1.5rem;">
-<a href="/">Home</a> ·
-<a href="/biography.html">Biography</a> ·
-<strong>Publications</strong> ·
-<a href="/services.html">Services</a> ·
-<a href="/teaching.html">Teaching</a> ·
-<a href="/prospective-students.html">Prospective Students</a>
-</div>
+<link rel="stylesheet" href="{{ '/css/profile-pages.css' | relative_url }}">
+
+<div class="academic-shell">
+{% include profile-sidebar.html active="publications" %}
+
+<main class="academic-main" markdown="1">
 
 ## Selected Publications (* indicates Corresponding Author)
 
@@ -157,4 +155,7 @@ Acta Automatica Sinica, 2017. [<font color="red">CCF T1</font>]
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features. <br>
 Acta Automatica Sinica, 2015. [<font color="red">CCF T1</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>]
+
+</main>
+</div>
 
