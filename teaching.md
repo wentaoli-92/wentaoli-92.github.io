@@ -3,14 +3,12 @@ layout: default
 title: Wentao Li | Teaching
 ---
 
-<div style="text-align: center; margin-bottom: 1.5rem;">
-<a href="/">Home</a> ·
-<a href="/biography.html">Biography</a> ·
-<a href="/publications.html">Publications</a> ·
-<a href="/services.html">Services</a> ·
-<strong>Teaching</strong> ·
-<a href="/prospective-students.html">Prospective Students</a>
-</div>
+<link rel="stylesheet" href="{{ '/css/profile-pages.css' | relative_url }}">
+
+<div class="academic-shell">
+{% include profile-sidebar.html active="teaching" %}
+
+<main class="academic-main" markdown="1">
 
 ## Teaching Experiences
 
@@ -26,4 +24,7 @@ title: Wentao Li | Teaching
 - Tutor, Enterprise Business Requirements, <br> University of Technology Sydney, Autumn Session 2020.
 - Tutor, Computer Networks, <br> Chongqing University, Autumn Session, 2015.
 - Tutor, The Fundamentals of Computer, <br> Chongqing University, Autumn Session, 2014.
+
+</main>
+</div>
 
