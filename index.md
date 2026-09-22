@@ -65,6 +65,37 @@ title: Wentao Li | Home
 .funding-item p {
   margin: 0.35rem 0 0;
 }
+
+.funding-meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 22px;
+  margin: 16px 0 0;
+}
+
+.funding-meta div {
+  min-width: 0;
+}
+
+.funding-meta dt {
+  margin: 0 0 2px;
+  color: #8b2821;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.funding-meta dd {
+  margin: 0;
+  color: #3f2927;
+}
+
+@media (max-width: 600px) {
+  .funding-meta {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 
 <div class="academic-shell">
@@ -113,12 +144,26 @@ Please visit the [Prospective Students](/prospective-students.html) page for app
 
 <div class="funding-item">
   <strong>Numeric-Constrained Shortest Path Query Processing on Road Networks</strong>
-  <p>National Natural Science Foundation of China, Young Scientists Fund (Category C), Grant No. 62302417 · January 2024–December 2026 · RMB 300,000 · Principal Investigator · Ongoing.</p>
+  <dl class="funding-meta">
+    <div><dt>Funder</dt><dd>National Natural Science Foundation of China</dd></div>
+    <div><dt>Program</dt><dd>Young Scientists Fund (Category C)</dd></div>
+    <div><dt>Grant</dt><dd>62302417</dd></div>
+    <div><dt>Period</dt><dd>Jan 2024–Dec 2026</dd></div>
+    <div><dt>Amount</dt><dd>RMB 300,000</dd></div>
+    <div><dt>Role</dt><dd>Principal Investigator · Ongoing</dd></div>
+  </dl>
 </div>
 
 <div class="funding-item">
   <strong>Key Technologies for Heterogeneous Data Management Based on Foundation Models</strong>
-  <p>Guangzhou Municipal Science and Technology Bureau, University–Institution–Enterprise Joint Funding Project, Grant No. 2024A03J0621 · January 2024–December 2026 · RMB 300,000 · Participant · Ongoing.</p>
+  <dl class="funding-meta">
+    <div><dt>Funder</dt><dd>Guangzhou Municipal Science and Technology Bureau</dd></div>
+    <div><dt>Program</dt><dd>University–Institution–Enterprise Joint Funding Project</dd></div>
+    <div><dt>Grant</dt><dd>2024A03J0621</dd></div>
+    <div><dt>Period</dt><dd>Jan 2024–Dec 2026</dd></div>
+    <div><dt>Amount</dt><dd>RMB 300,000</dd></div>
+    <div><dt>Role</dt><dd>Participant · Ongoing</dd></div>
+  </dl>
 </div>
 
 ## Awards
