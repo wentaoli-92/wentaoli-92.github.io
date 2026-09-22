@@ -1,1 +1,35 @@
+<aside class="profile-sidebar">
+  <div class="sidebar-inner">
+    <img class="sidebar-photo" src="/file/wentao.jpg" alt="Wentao Li">
 
+    <h1>Wentao Li</h1>
+    <p class="sidebar-role">Lecturer</p>
+    <p class="sidebar-school">School of Computing and Mathematical Sciences<br>University of Leicester</p>
+
+    <p class="sidebar-detail">
+      <span class="sidebar-icon" aria-hidden="true">●</span>
+      Leicester, United Kingdom
+    </p>
+    <p class="sidebar-detail">
+      <span class="sidebar-icon" aria-hidden="true">✉</span>
+      <a href="mailto:wl226@leicester.ac.uk">wl226@leicester.ac.uk</a><br>
+      <span class="sidebar-icon sidebar-icon-spacer" aria-hidden="true">✉</span>
+      <a href="mailto:livent@126.com">livent@126.com</a>
+    </p>
+
+    <nav class="sidebar-nav" aria-label="Primary navigation">
+      <a href="/"{% if include.active == "home" %} aria-current="page"{% endif %}>Home</a>
+      <a href="/biography.html"{% if include.active == "biography" %} aria-current="page"{% endif %}>Biography</a>
+      <a href="/publications.html"{% if include.active == "publications" %} aria-current="page"{% endif %}>Publications</a>
+      <a href="/services.html"{% if include.active == "services" %} aria-current="page"{% endif %}>Services</a>
+      <a href="/teaching.html"{% if include.active == "teaching" %} aria-current="page"{% endif %}>Teaching</a>
+      <a href="/prospective-students.html"{% if include.active == "prospective-students" %} aria-current="page"{% endif %}>Prospective Students</a>
+    </nav>
+
+    <nav class="sidebar-external" aria-label="Academic profiles">
+      <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+      <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">DBLP</a>
+      <a href="https://le.ac.uk/people/wentao-li">Homepage@UoL</a>
+    </nav>
+  </div>
+</aside>
