@@ -11,6 +11,7 @@ title: Wentao Li | Home
   gap: 16px;
   overflow-x: auto;
   padding: 4px 4px 18px;
+  counter-reset: publication-card;
   scroll-snap-type: x mandatory;
   scrollbar-color: #d66b64 #f8e2e0;
   scrollbar-width: thin;
@@ -19,6 +20,7 @@ title: Wentao Li | Home
 
 .publication-card {
   flex: 0 0 min(86%, 430px);
+  counter-increment: publication-card;
   scroll-snap-align: start;
   padding: 20px;
   border: 1px solid #efc4c0;
@@ -27,7 +29,8 @@ title: Wentao Li | Home
   box-shadow: 0 3px 12px rgba(110, 16, 10, 0.07);
 }
 
-.publication-card p {
+.publication-card p,
+.publication-entry p {
   margin: 0.55rem 0 0;
 }
 
@@ -38,20 +41,12 @@ title: Wentao Li | Home
   font-weight: 700;
 }
 
-.publication-venue {
-  display: inline-block;
-  padding: 2px 8px;
-  border-radius: 999px;
-  background: #f4b6b1;
-  color: #4b1410;
-  font-size: 0.86rem;
-  font-weight: 700;
+.publication-number::before {
+  content: counter(publication-card, decimal-leading-zero);
 }
 
-.publication-title {
-  color: #5f1712;
-  font-size: 1.05rem;
-  line-height: 1.35;
+.publication-entry {
+  color: #3f2927;
 }
 
 .slider-hint {
@@ -87,36 +82,19 @@ I have published more than 30 CORE A*/CCF-A level papers, including work at SIGM
 
 <p class="slider-hint">Swipe horizontally or use the scrollbar to browse the five latest publications.</p>
 
+{% assign publications_page = site.pages | where: "name", "publications.md" | first %}
+{% assign publication_section = publications_page.content | split: "## Selected Publications (* indicates Corresponding Author)" | last %}
+{% assign normalized_publications = publication_section | strip | newline_to_br | strip_newlines %}
+{% assign publication_items = normalized_publications | split: "<br /><br />- " %}
+
 <div class="publication-slider" role="region" aria-label="Five latest publications" tabindex="0">
+{% for publication in publication_items limit: 5 %}
+  {% assign publication_text = publication | remove_first: "- " | remove: "<br />" | strip %}
   <article class="publication-card">
-    <span class="publication-number">01</span><span class="publication-venue">ICDE 2027</span>
-    <p class="publication-title"><strong>Maintaining Ego-Betweenness Centrality at Billion Scale</strong></p>
-    <p>Kaiyu Chen, Dong Wen, <strong>Wentao Li</strong>, Wenjie Zhang, Xuemin Lin.</p>
+    <span class="publication-number" aria-label="Publication {{ forloop.index }}"></span>
+    <div class="publication-entry">{{ publication_text | markdownify }}</div>
   </article>
-
-  <article class="publication-card">
-    <span class="publication-number">02</span><span class="publication-venue">TKDE 2026</span>
-    <p class="publication-title"><strong>Structural Clustering for Bipartite Graphs</strong></p>
-    <p>Mingyu Yang, <strong>Wentao Li*</strong>, Wei Wang, Dong Wen, Min Gao, Lu Qin.</p>
-  </article>
-
-  <article class="publication-card">
-    <span class="publication-number">03</span><span class="publication-venue">SIGKDD 2026</span>
-    <p class="publication-title"><strong>E2E: Efficient Filtered AKNN Search via Adaptive Termination</strong></p>
-    <p>Wenxuan Xia, Mingyu Yang, <strong>Wentao Li</strong>, Wei Wang.</p>
-  </article>
-
-  <article class="publication-card">
-    <span class="publication-number">04</span><span class="publication-venue">ICDE 2026</span>
-    <p class="publication-title"><strong>Efficient Top-k Nearest Neighbors Search in Dynamic Road Networks</strong></p>
-    <p>Junhua Zhang, Yamei Song, <strong>Wentao Li*</strong>, Lu Qin.</p>
-  </article>
-
-  <article class="publication-card">
-    <span class="publication-number">05</span><span class="publication-venue">ICDE 2026</span>
-    <p class="publication-title"><strong>An Efficient and Scalable Approach for Path Queries on Public Transportation Networks</strong></p>
-    <p>Junhua Zhang, <strong>Wentao Li</strong>, Wenjie Zhang, Lu Qin, Xiaochun Yang.</p>
-  </article>
+{% endfor %}
 </div>
 
 [View all selected publications →](/publications.html)
