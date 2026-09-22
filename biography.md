@@ -3,14 +3,12 @@ layout: default
 title: Wentao Li | Biography
 ---
 
-<div style="text-align: center; margin-bottom: 1.5rem;">
-<a href="/">Home</a> ·
-<strong>Biography</strong> ·
-<a href="/publications.html">Publications</a> ·
-<a href="/services.html">Services</a> ·
-<a href="/teaching.html">Teaching</a> ·
-<a href="/prospective-students.html">Prospective Students</a>
-</div>
+<link rel="stylesheet" href="{{ '/css/profile-pages.css' | relative_url }}">
+
+<div class="academic-shell">
+{% include profile-sidebar.html active="biography" %}
+
+<main class="academic-main" markdown="1">
 
 ## Biography
 
@@ -22,4 +20,7 @@ His research interests primarily lie in large-scale data processing and machine 
 
 - **Data Processing:** Graph Processing, Vector Databases, Social Network Analysis, and Parallel and Distributed Computing.
 - **Machine Learning:** Graph Mining, Large Language Models (LLMs), Recommender Systems, and AI for Combinatorial Optimization.
+
+</main>
+</div>
 
