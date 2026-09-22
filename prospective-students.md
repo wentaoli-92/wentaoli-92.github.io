@@ -10,6 +10,16 @@ title: Wentao Li | Prospective Students
 
 <main class="academic-main" markdown="1">
 
+## Supervised Students
+
+- **Junhua Zhang** — PhD student at the University of Technology Sydney. He is currently a Professor at Northeastern University, China.
+
+- **Mingyu Yang** — PhD student at the Hong Kong University of Science and Technology (Guangzhou). He is currently working at DeepSeek.
+
+- **Maolin Cai** — Master's student at Chongqing University. He is currently pursuing a PhD at the Hong Kong Polytechnic University.
+
+- **Weizhe Chen** — Undergraduate student at Chongqing University.
+
 ## Prospective Students
 
 I am looking for highly motivated PhD students, including CSC Joint PhD candidates, to join me at the University of Leicester. Our work focuses on cutting-edge research in graph data processing, graph mining, and vector databases.
@@ -22,4 +32,3 @@ If you are passionate about these areas and eager to contribute to innovative re
 
 </main>
 </div>
-
