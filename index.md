@@ -36,13 +36,23 @@ title: Wentao Li | Home
 
 .publication-number {
   display: inline-block;
-  margin-right: 8px;
   color: #8b2821;
   font-weight: 700;
 }
 
 .publication-number::before {
   content: counter(publication-card, decimal-leading-zero);
+}
+
+.publication-venue {
+  display: inline-block;
+  margin-right: 8px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #f4b6b1;
+  color: #4b1410;
+  font-size: 0.86rem;
+  font-weight: 700;
 }
 
 .publication-entry {
@@ -99,12 +109,16 @@ I have published more than 30 CORE A*/CCF-A level papers, including work at SIGM
 {% assign publications_page = site.pages | where: "name", "publications.md" | first %}
 {% assign publication_section = publications_page.content | split: "## Selected Publications (* indicates Corresponding Author)" | last %}
 {% assign normalized_publications = publication_section | strip | newline_to_br | strip_newlines %}
-{% assign publication_items = normalized_publications | split: "<br /><br />- " %}
+{% assign publication_items = normalized_publications | split: "<br /><br />1. " %}
 
 <div class="publication-slider" role="region" aria-label="Five latest publications" tabindex="0">
 {% for publication in publication_items limit: 5 %}
-  {% assign publication_text = publication | remove_first: "- " | remove: "<br />" | strip %}
+  {% assign publication_text = publication | remove_first: "1. " | remove: "<br />" | strip %}
+  {% assign publication_lines = publication_text | split: "<br>" %}
+  {% assign venue_tail = publication_lines[2] | split: "(" | last %}
+  {% assign venue = venue_tail | split: ")" | first | strip %}
   <article class="publication-card">
+    <span class="publication-venue">{{ venue }}</span>
     <span class="publication-number" aria-label="Publication {{ forloop.index }}"></span>
     <div class="publication-entry">{{ publication_text | markdownify }}</div>
   </article>
