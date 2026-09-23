@@ -6,16 +6,23 @@
     <p class="sidebar-role">Lecturer</p>
     <p class="sidebar-school">School of Computing and Mathematical Sciences<br>University of Leicester</p>
 
-    <p class="sidebar-detail">
-      <span class="sidebar-icon" aria-hidden="true">●</span>
-      Leicester, United Kingdom
+    <p class="sidebar-detail sidebar-detail-row">
+      <svg class="sidebar-svg" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z"></path>
+        <circle cx="12" cy="10" r="2.5"></circle>
+      </svg>
+      <span>Leicester, United Kingdom</span>
     </p>
-    <p class="sidebar-detail">
-      <span class="sidebar-icon" aria-hidden="true">✉</span>
-      <a href="mailto:wl226@leicester.ac.uk">wl226@leicester.ac.uk</a><br>
-      <span class="sidebar-icon sidebar-icon-spacer" aria-hidden="true">✉</span>
-      <a href="mailto:livent@126.com">livent@126.com</a>
-    </p>
+    <div class="sidebar-detail sidebar-detail-row">
+      <svg class="sidebar-svg" viewBox="0 0 24 24" aria-hidden="true">
+        <rect x="3" y="5" width="18" height="14" rx="2"></rect>
+        <path d="m3 7 9 6 9-6"></path>
+      </svg>
+      <p class="sidebar-emails">
+        <a href="mailto:wl226@leicester.ac.uk">wl226@leicester.ac.uk</a><br>
+        <a href="mailto:livent@126.com">livent@126.com</a>
+      </p>
+    </div>
 
     <nav class="sidebar-nav" aria-label="Primary navigation">
       <a href="/"{% if include.active == "home" %} aria-current="page"{% endif %}>Home</a>
@@ -23,13 +30,33 @@
       <a href="/publications.html"{% if include.active == "publications" %} aria-current="page"{% endif %}>Publications</a>
       <a href="/services.html"{% if include.active == "services" %} aria-current="page"{% endif %}>Services</a>
       <a href="/teaching.html"{% if include.active == "teaching" %} aria-current="page"{% endif %}>Teaching</a>
-      <a href="/students.html"{% if include.active == "students" %} aria-current="page"{% endif %}>Students</a>
+      <a href="/prospective-students.html"{% if include.active == "prospective-students" %} aria-current="page"{% endif %}>Prospective Students</a>
     </nav>
 
     <nav class="sidebar-external" aria-label="Academic profiles">
-      <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
-      <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">DBLP</a>
-      <a href="https://le.ac.uk/people/wentao-li">Homepage@UoL</a>
+      <a class="sidebar-profile-link" href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">
+        <svg class="sidebar-svg" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="m2 9 10-5 10 5-10 5L2 9Z"></path>
+          <path d="M6 11v5c3 3 9 3 12 0v-5"></path>
+          <path d="M22 9v6"></path>
+        </svg>
+        <span>Google Scholar</span>
+      </a>
+      <a class="sidebar-profile-link" href="https://dblp.uni-trier.de/pid/60/8180-1.html">
+        <svg class="sidebar-svg" viewBox="0 0 24 24" aria-hidden="true">
+          <rect x="3" y="3" width="5" height="18" rx="1"></rect>
+          <rect x="10" y="6" width="5" height="15" rx="1"></rect>
+          <rect x="17" y="9" width="4" height="12" rx="1"></rect>
+        </svg>
+        <span>DBLP</span>
+      </a>
+      <a class="sidebar-profile-link" href="https://le.ac.uk/people/wentao-li">
+        <svg class="sidebar-svg" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 3 2 8h20L12 3Z"></path>
+          <path d="M4 10v9M9 10v9M15 10v9M20 10v9M2 21h20"></path>
+        </svg>
+        <span>Homepage@UoL</span>
+      </a>
     </nav>
   </div>
 </aside>
