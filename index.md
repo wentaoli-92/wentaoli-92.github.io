@@ -135,7 +135,7 @@ I am looking for highly motivated PhD students, including CSC Joint PhD candidat
 - **CSC-funded opportunities:** available to eligible Chinese applicants, including joint PhD candidates.
 - **How to apply:** please send your CV and research statement to [wl226@leicester.ac.uk](mailto:wl226@leicester.ac.uk) or [livent@126.com](mailto:livent@126.com).
 
-Please visit the [Prospective Students](/prospective-students.html) page for application details and funding links.
+Please visit the [Students](/students.html) page for application details and funding links.
 
 ## Funding
 
