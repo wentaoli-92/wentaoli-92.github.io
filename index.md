@@ -63,38 +63,21 @@ title: Wentao Li | Home
 }
 
 .funding-item p {
-  margin: 0.35rem 0 0;
+  margin: 0.45rem 0 0;
 }
 
-.funding-meta {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px 22px;
-  margin: 16px 0 0;
+.funding-title {
+  display: block;
+  color: #2f2f2f;
 }
 
-.funding-meta div {
-  min-width: 0;
+.funding-detail {
+  color: #5a4542;
 }
 
-.funding-meta dt {
-  margin: 0 0 2px;
+.funding-summary {
   color: #8b2821;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.funding-meta dd {
-  margin: 0;
-  color: #3f2927;
-}
-
-@media (max-width: 600px) {
-  .funding-meta {
-    grid-template-columns: 1fr;
-  }
+  font-size: 0.95rem;
 }
 </style>
 
@@ -138,32 +121,20 @@ I am looking for highly motivated PhD students, including CSC Joint PhD candidat
 - **CSC-funded opportunities:** available to eligible Chinese applicants, including joint PhD candidates.
 - **How to apply:** please send your CV and research statement to [wl226@leicester.ac.uk](mailto:wl226@leicester.ac.uk) or [livent@126.com](mailto:livent@126.com).
 
-Please visit the [Students](/students.html) page for application details and funding links.
+Please visit the [Prospective Students](/prospective-students.html) page for application details and funding links.
 
 ## Funding
 
 <div class="funding-item">
-  <strong>Numeric-Constrained Shortest Path Query Processing on Road Networks</strong>
-  <dl class="funding-meta">
-    <div><dt>Funder</dt><dd>National Natural Science Foundation of China</dd></div>
-    <div><dt>Program</dt><dd>Young Scientists Fund (Category C)</dd></div>
-    <div><dt>Grant</dt><dd>62302417</dd></div>
-    <div><dt>Period</dt><dd>Jan 2024–Dec 2026</dd></div>
-    <div><dt>Amount</dt><dd>RMB 300,000</dd></div>
-    <div><dt>Role</dt><dd>Principal Investigator</dd></div>
-  </dl>
+  <strong class="funding-title">Numeric-Constrained Shortest Path Query Processing on Road Networks</strong>
+  <p class="funding-detail">National Natural Science Foundation of China · Young Scientists Fund (Category C) · Grant 62302417</p>
+  <p class="funding-summary"><strong>Principal Investigator</strong> · Jan 2024–Dec 2026 · RMB 300,000</p>
 </div>
 
 <div class="funding-item">
-  <strong>Key Technologies for Heterogeneous Data Management Based on Foundation Models</strong>
-  <dl class="funding-meta">
-    <div><dt>Funder</dt><dd>Guangzhou Municipal Science and Technology Bureau</dd></div>
-    <div><dt>Program</dt><dd>University–Institution–Enterprise Joint Funding Project</dd></div>
-    <div><dt>Grant</dt><dd>2024A03J0621</dd></div>
-    <div><dt>Period</dt><dd>Jan 2024–Dec 2026</dd></div>
-    <div><dt>Amount</dt><dd>RMB 300,000</dd></div>
-    <div><dt>Role</dt><dd>Participant</dd></div>
-  </dl>
+  <strong class="funding-title">Key Technologies for Heterogeneous Data Management Based on Foundation Models</strong>
+  <p class="funding-detail">Guangzhou Municipal Science and Technology Bureau · University–Institution–Enterprise Joint Funding Project · Grant 2024A03J0621</p>
+  <p class="funding-summary"><strong>Participant</strong> · Jan 2024–Dec 2026 · RMB 300,000</p>
 </div>
 
 ## Awards
