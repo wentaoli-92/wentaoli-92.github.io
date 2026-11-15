@@ -14,7 +14,7 @@ title: Wentao Li | Publications
 
 1. Wenxuan Xia, Mingyu Yang, **Wentao Li**, Wei Wang. <br>
 HRNN: A Hybrid Graph Index for Efficient Reverse k-Nearest Neighbor Search on High-Dimensional Vectors. <br>
-International Conference on Very Large Data Bases (VLDB), 2026. [<font color="red">CCF A, CORE A*</font>]
+International Conference on Very Large Data Bases (VLDB), 2027. [<font color="red">CCF A, CORE A*</font>]
 
 1. Kaiyu Chen, Dong Wen, **Wentao Li**, Wenjie Zhang, Xuemin Lin. <br>
 Maintaining Ego-Betweenness Centrality at Billion Scale. <br>
